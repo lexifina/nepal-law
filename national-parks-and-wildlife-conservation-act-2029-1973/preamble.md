@@ -1,0 +1,2 @@
+# Preamble
+Preamble: Whereas it is expedient to make arrangement for the management of national parks, conservation of wildlife and their habitat, regulate hunting and to conserve, promote, develop, and make appropriate arrangements for and the use of places which are of special importance from the point of view of natural beauty and to maintain good manners and welfare of the general public, His Majesty King Birendra Bir Bikram Shah Dev enacted this Act on the advice and consent of the National Panchayat.
