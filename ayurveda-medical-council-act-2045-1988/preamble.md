@@ -1,0 +1,2 @@
+# Preamble
+Act No. 21 of the year 2045(1988) An Act made to make provisions on Ayurveda Medical Council Preamble: Whereas, it is expedient to establish an Ayurveda Medical Council to make more effective the Ayurvedic medical system, to develop the method of production and use of Ayurvedic medicines and make provisions on the registration of Ayurvedic doctors, for maintaining the health and convenience of the general public; Now, therefore, His Majesty King Birendra Bir Bikram Shah Dev has, on the advice and with the consent of the Rastriya Panchayat , enacted this Act.
