@@ -1,0 +1,2 @@
+# Preamble
+An Act made to provide for managing the Legal Aid Preamble : Whereas, it is expedient to make legal provisions regarding legal aid for those persons who are unable to protect their legal rights due to financial and social reasons to provide for equal justice to all according to the Principle of Rule of Law. Now, therefore, be it enacted by Parliament on the twenty- sixth year of reign of His Majesty the King Birendra Bir Bikram Shah Dev.
