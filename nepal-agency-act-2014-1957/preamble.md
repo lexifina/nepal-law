@@ -1,0 +1,2 @@
+# Preamble
+An Act Provided for control of Agency Related Activities [Preamble]: Whereas, it is expedient to maintain the facilities and economic interest of the general public upon controlling and arranging the activities of the Agents, Distributor, Stockiest, Nominee, representatives regarding the undue benefits in the course of sales of goods and commodities. Now, therefore, be it enacted and promulgated by His Majesty the King.
