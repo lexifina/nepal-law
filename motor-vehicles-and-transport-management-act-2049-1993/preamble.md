@@ -1,0 +1,2 @@
+# Preamble
+An Act Made To Provide for Motor Vehicle and Transport Management Preamble: Whereas, it is expedient to make transportation services consolidated, efficient and effective with a view to preventing motor vehicle accidents, enabling the victims of accidents to have compensation, providing for insurance and making transportation facilities available to the public generally in a simple and easily accessible manner; Be it enacted by the Parliament in the twenty first year of the reign of His Majesty King Birendra Bir Bikram Shah Dev .
