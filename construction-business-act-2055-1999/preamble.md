@@ -1,0 +1,2 @@
+# Preamble
+An Act made to manage and expand construction business Preamble: Whereas, it is expedient to make necessary provisions on the operation of construction business by promoting and developing construction entrepreneurs so as to maintain required quality standards of public construction works; Be it enacted by the Parliament in the twenty-seventh year of reign of His Majesty King Birendra Bir Bikram Shah Dev.
