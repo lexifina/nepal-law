@@ -1,0 +1,1 @@
+Schedule I...................................... swear affirm in the name of god/promise with truth and loyalty that I shall discharge the responsibility of the post of the Chief Justice/Justice benevolently with full loyalty to the Interim Constitution of Nepal, 2063; faithfulness to the nation, without any fear, bias, affection or malice. Date: signature
