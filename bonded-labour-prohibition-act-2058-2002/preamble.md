@@ -1,0 +1,2 @@
+# Preamble
+Act Number 21 of the Year 2058 (2002) An act made to provide for provisions relating to prohibition on bonded labour Preamble : Whereas, it is expedient to make provisions in order to put a ban on bonded labour ( Kamaay shram ), to rehabilitate the freed bonded labourers and to uplift their livelihood from the perspectives of social justice. Now, therefore be it enacted by the Parliament in the first years of reign of the His majesty the King Gayanedra Bir Bikram Shah dev.
