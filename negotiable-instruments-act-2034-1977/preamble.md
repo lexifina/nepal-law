@@ -1,0 +1,2 @@
+# Preamble
+Act Number 26 of 2034 (1977) An Act Made to Provide For Matters Relating to the Negotiable Instruments Preamble: Whereas, it is expedient to define negotiable instrument and make other arrangements relating to it in order to systematize the banking transaction, Now, therefore, be it enacted by His Majesty King Birendra Bir Birkram Shah Dev on the advice and with the consent of the Rastriya Panchayat .
