@@ -1,0 +1,2 @@
+# Preamble
+Act Number 10 of the year 2034 (1977) An Act made to make provisions on establishment and registration of associations Preamble : Whereas, it is expedient to make provisions on establishment and registration of social, religious, literary, cultural, scientific, educational, intellectual, physical, economical, vocational and philanthropic associations; Now, therefore, be it enacted by His Majesty the King Birendra Bir Bikram Shah Dev with the advice and consent of the Rastriya Panchayat .
