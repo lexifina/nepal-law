@@ -1,0 +1,2 @@
+# Preamble
+Act Number 14 of the year 2053 (1996) An Act made to Provide for Compensation to the Person subjected to Torture while in Detention. Preamble : Whereas, it is expedient to make provisions on compensation for inflicting physical or mental torture upon any person in detention in the course of investigation, inquiry or trial or for any other reason or for giving cruel, inhuman or degrading treatment to such a person; Now, therefore, be it enacted by the Parliament in the 25th year of reign of His Majesty King Birendra Bir Bikram Shah Dev.
