@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Provide for the Nepal Nursing Council Preamble: Whereas, it is expedient to establish a Nursing Council in order to manage and operate in a scientific manner the nursing business by making it effective in Nepal and also to provide for the registration of name according to the qualifications of the nurses; Be it enacted by the Parliament in the twenty fourth year of the reign of His Majesty King Birendra Bir Bikram Shah Dev .
