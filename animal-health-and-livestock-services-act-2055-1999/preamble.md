@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Provide Necessary Arrangement Relating to Animal Health and Livestock Services Preamble: Whereas, it is expedient to systematize and develop the animal husbandry business which occupies an important place of the national economy and to provide necessary arrangement relating to healthy production; sale, distribution, export and import of animal products or animal production inputs, Now, therefore, the Parliament has enacted this Act on the twenty seventh year of the reign of His Majesty the King Birendra Bir Bikram Shah Dev.
