@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Provide for the Establishment and Management of Nepal Health Research Council Preamble: Whereas, it is expedient to establish and manage the Nepal Health Research Council in order to maintain the health facilities of the general public by doing study and research works on the problems appearing in the health sector; Be it enacted by His Majesty King Birendra Bir Bikram Shah Dev on the advice and with the consent of the Council of Ministers, in accordance with Article 129 of the Constitution of the Nepal, 2047(1990).
