@@ -1,0 +1,2 @@
+# Preamble
+An Act made for the Management and Development of Electricity PREMABLE: WHEREAS, it is expedient to develop electric power by regulating the survey, generation, transmission and distribute the survey, generation, transmission and distribution of electricity and to standardize and safeguard the electricity services. NOW, THEREFORE, be it enacted by the Parliament in the twenty-first year of the reign of His Majesty's King Birendra Bir Bikram Shah Dev ;
