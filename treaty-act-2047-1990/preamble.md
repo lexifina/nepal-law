@@ -1,0 +1,2 @@
+# Preamble
+Act No. 16 of the year 2047 (1990) An act made for procedure relating to the treaty Preamble : Whereas, it is expedient to make legal provisions in regard to the procedure relating to signing, ratification, accession, acceptance, or approval of treaties or agreements to which Nepal or Government of Nepal is a party, as well as in regard to their implementation, Now therefore, be enacted by His Majesty King Birendra Bir Bikram Shah Dev under Article 129 of the Constitution on the advice and with the approval of the Council Ministers.
