@@ -1,0 +1,2 @@
+# Preamble
+An Act made to provide for Privilege and Immunities for the Foreign State and their Diplomatic Representative (Agent) Preamble : Whereas, it is expedient to provide for provision on diplomatic privileges and immunities to the foreign state, their representatives and officials in accordance with International Law and Usages (Practice), Be it enacted by His Majesty King Mahendra Bir Bikram Shahdev with the advise and consent of the Rastriya Panchayat.
