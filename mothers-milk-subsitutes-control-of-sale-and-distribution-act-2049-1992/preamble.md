@@ -1,0 +1,2 @@
+# Preamble
+Act No. 39 of 2049 (1992) An Act Made to Provide for the Control of Sale and Distribution of Mother's Milk Substitutes Preamble: Whereas, it is expedient to provide for safe and adequate nutrition to the infant by protecting and promoting the breastfeeding and regulating the mother's milk substitutes as well as the sale and distribution of infant foods; Now, therefore, be it enacted by Parliament in the twenty-first year of the reign of His Majesty King Birendra Bir Bikram Shah Dev.
