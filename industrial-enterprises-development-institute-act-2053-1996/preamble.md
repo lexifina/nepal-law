@@ -1,0 +1,2 @@
+# Preamble
+Act Number 3 of the Year 2053 (1996) An Act made to provide for provisions relating to industrial enterprises development institute Preamble : Whereas it is expedient to develop industrial business by addressing the need of entrepreneurship, quality management, technology and technical human resource and by strengthening national economy through the development of industrial sector. Now, therefore, be it enacted by the parliament in the twenty fifth reign of His Majesty king Birendra Bir Bikram Shah Dev.
