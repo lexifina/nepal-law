@@ -1,0 +1,2 @@
+# Preamble
+Act No 28 of 2017 An Act made to provide for Authorization to control Essential Commodities Preamble : Whereas, it is expedient to authorize for harsh control, from time to time as per necessity, on the distribution, sale or trade of food items and goods and commodities which are essential for daily consumption, use and feeding to maintain comfort of the general people in the society, Be it enacted by His Majesty the King pursuant to Article 93 of the constitution of Nepal, 2019(1961).

@@ -1,0 +1,3 @@
+# Sec. 6A. Penalties to the offense committed by the body corporate or company
+(1) If the person committing offense against this Act is a body corporate or a company except if it is proved that he or she was unknown to the offense or he /she had tried the best to prevent from such offense, the Director, Manager or any other Officer or person, who is in a position to control the activities of the body corporate or the company, shall be punished for such crime.
+(2) Notwithstanding anything contained in Sub-section (1), in case, it is proved that the offense was committed knowingly or recklessly by the Director, Manager or any other Official of the body corporate or a company such Director, Manager or Official shall also be liable for the punishment pursuant to this Act.
