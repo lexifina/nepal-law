@@ -1,0 +1,1 @@
+Schedule (Relating to Section 9) In the dispute referred to me/us for arbitration between ............ and .........., I/we shall work in an impartial and honest manner without any bias toward any party. Name Signature Date
