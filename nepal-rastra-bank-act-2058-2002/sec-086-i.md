@@ -1,0 +1,7 @@
+# Sec. 86I. Right to Appeal Against the Order of the Bank
+(1) Only the representative of shareholders of the commercial bank or financial institution can appeal to the committee within fifteen days against the action, order, decision or Proceedings of the bank or the official appointed by the bank, under Section 86C, 86D, 86E, 86f and 86h, if not satisfied with such action, order, decision or proceedings. Clarification: For the purpose of this Section "shareholders representative" means representative elected among the shareholders having minimum twenty five percent of prevailing share.
+(2) No appeal will be entertained without having the representation of twenty five percent of prevailing shares within the time of Sub-section (1.)
+(3) In case of the appeal under the provision of Sub-section (1), the committee has to approve, review or cancel the action, order, decision or proceedings done by the bank or the official appointed by the bank, within thirty days of receipt of such appeal by giving related proof, basis and reasons.
+(4) Bank may provide information about the decision made under Sub-section (3) within fifteen days of such decision to the respective representative of the shareholders.
+(5) The action, order, decision or Proceedings of the bank or the official appointed by the bank shall remain continue unless the committee under Sub-section (3) cancel it.
+(6) The decision of the committee under Sub-section (3) on the appeal of the shareholders representative shall be final.

@@ -1,0 +1,11 @@
+# Sec. 86B. State of Problematic Commercial Bank and Financial Institution
+Bank shall declare any commercial bank or financial institution problematic by providing written notice to it when bank is convinced that the following conditions are prevailing in any commercial bank or financial institution on the basis of information received under Section 86A or from the report of inspection and supervision conducted under Section 84 or from any other means.
+(a) In case of any action which is against the interest of the depositors, shareholders, creditors, or general public,
+(b) In case of not fulfillment of any financial liabilities or not having probability to do that or not payment of due amount,
+(c) In case of insolvency or going to fall under insolvency or facing material financial difficulties,
+(d) In case of discredit or breach of this Act, prevailing law related to bank and financial institution, other prevailing law, terms of license or regulation, directives or order of bank,
+(e) In case the license obtained on the basis of submitting false, fraudulent, wrong document or data,
+(f) In case of unable to maintain the capital fund as per this Act, prevailing law related to bank and financial institution and directives issued by the bank at time to time,
+(g) In case of the initiation of the process of liquidation or insolvency of any commercial bank or financial institution under the prevailing law,
+(h) In case of undue delay in the process of voluntary liquidation,
+(i) For the commercial bank or financial institution established with the joint venture of the foreign commercial bank or financial institution while such foreign commercial bank or financial institution is in insolvent or liquidator is appointed for the liquidation or the license of such commercial bank or financial institution is terminated under the provision of the law of respective country or transaction is banned either full or partial or in case of operation of banking transaction being involved with such commercial bank or financial institution, or (j) If the bank is convinced that commercial bank or financial institution is unable to pay it's due or can make negative effect in its liability or duties, which it has to perform.

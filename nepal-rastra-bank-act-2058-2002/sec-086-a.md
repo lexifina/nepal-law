@@ -1,0 +1,2 @@
+# Sec. 86A. Information Need to Provide to the Bank by Commercial Banks and Financial Institutions
+Commercial bank or financial institution shall inform to the bank within fifteen days about the situation of insolvency or state of dissolution under the prevailing law or incapability to pay the debt or materially unable to discharge any or all liabilities by any commercial bank or financial institution.

@@ -1,0 +1,2 @@
+# Sec. 86G. Application for the Dissolution
+In case the bank is convinced that any problematic commercial bank or financial institution even after the action under Section 86C, reformative action under Section 86E or corrective action under Section 86F, such commercial bank or financial institution is unable to discharge its liabilities or there is no possibility to operate in healthy way, can apply to the Appellate Court for the dissolution of such commercial bank or financial institution.
