@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Amend and Consolidate the Law relating to Income Tax Preamble : Whereas, it is expedient to make timely the law relating to income tax by amending and consolidating it in order to enhance revenue mobilization by making the process of collecting revenue effective for the economic development of the country; Now, therefore, be it enacted by Parliament in the first year of reign of His Majesty the King Gyanendra Bir Bikram Shah Dev.
