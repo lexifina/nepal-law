@@ -1,0 +1,2 @@
+# Preamble
+Act No. 12 of the year 2038(1982) An Act made to provide for the National Trust for Nature Conservation Preamble: Whereas, it is expedient to set up the National Trust for Nature Conservation in order to conserve and manage the nature and natural heritage; Now, therefore, His Majesty the King Birendra Bir Bikram Shah Dev has, on the advice and with the approval of the Rastriya Panchayat , enacted this Act.
