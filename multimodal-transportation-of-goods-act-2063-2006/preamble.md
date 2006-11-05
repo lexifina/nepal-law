@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Provide for Multimodal Transportation of Goods . Preamble: Whereas, it is expedient to make legal provisions on multimodal transportation in order to enhance the trade capacity of the country by developing and operating the multimodal transportation service and to consolidate the economy of the country by diversifying international trade; Now, therefore, be it enacted by the House of Representatives in the First Year of the issuance of the Proclamation of the House of Representatives, 2063 (2006).
