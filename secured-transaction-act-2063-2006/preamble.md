@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Provide for Secured Transactions Preamble: Whereas, it is expedient to make provisions forthwith to secure obligations with movable and intangible property by making consolidated legal provisions in relation to secured transactions for the maximum promotion of economic activities for the economic development of the country; Now, therefore, be it enacted by the House of Representatives in the First Year of the issuance of the Proclamation of the House of Representatives, 2063(2006).
