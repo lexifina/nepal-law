@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Provide for Protection and Social Security of Senior Citizens Preamble: Whereas, it is expedient to make provisions immediately on the protection and social security of senior citizens and enhancement of trust, respect and good faith towards them by utilizing knowledge, skills, capability and experiences inherent in them; Now, therefore, be it enacted by the House of Representatives in the first year of the issuance of the Declaration of the House of Representatives, 2063 (2006).
