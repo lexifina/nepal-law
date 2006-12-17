@@ -1,0 +1,3 @@
+# Sec. 5A. Authentication of order, letter of authorization, notice to be issued by the President
+(1) Any order, letter of authorization, notice or other document to be issued by the President pursuant to the Interim Constitution of Nepal, 2063 (2007) and other prevailing laws shall be authenticated by the signature of the President.
+(2) Following authentication pursuant to Sub-section (1), the Office of President shall safely retain one copy in its office and shall forward to the Office of Prime Minister and Council of Ministers for the information of authentication of, and implementation of, such an order, letter of authorization, notice or other document and to the Ministry of Law and Justice for its publication in the Nepal Gazette if it has to be so published.
