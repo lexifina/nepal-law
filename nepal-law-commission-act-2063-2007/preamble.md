@@ -1,0 +1,2 @@
+# Preamble
+Act No.37 of years 2063 (2007) An Act Made to provide the law relating to Nepal Law Commission Preamble: Where as, it is expedient to establish and manage Nepal Law commission for drafting and codification of law, amendment unification and review of prevailing laws as well as conduct study and research on law and justice. Now, therefore, this Act is hereby enacted by the House of Representative in the first year of issue of the Declaration of House or Representatives, 2063 B.S. (2006 A.D.)
