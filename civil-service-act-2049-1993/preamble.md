@@ -1,0 +1,2 @@
+# Preamble
+Act No. 2 of the year 2050 (1993) An Act Made to Provide for the Constitution, Operation and Conditions of Service of the Civil Service Preamble : Whereas, it is expedient to make provisions on the constitution, operation and conditions of service of the civil service in order to make the civil service more competent, vigorous, service-oriented and responsible; Now, therefore, be it enacted by Parliament in the Twenty-second year of the reign of His Majesty King Birendra Bir Bikram Shah Dev .
