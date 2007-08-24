@@ -1,0 +1,2 @@
+# Preamble
+Act No. 13 of the year 2064 (2007) An Act Made to Provide for the Establishment of the Legislature-Parliament Secretariat and the Constitution and Operation of the Legislature-Parliament Service Preamble: Whereas, it is expedient to make provisions on the establishment of the Legislature-Parliament Secretariat and the constitution and operation of the Legislature-Parliament Service for the smooth operation of the activities of the Legislature-Parliament; Now, therefore, be it enacted by the Legislature-Parliament.
