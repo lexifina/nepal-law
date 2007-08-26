@@ -1,0 +1,2 @@
+# Sec. 21B. Responsibility to be fixed
+Notwithstanding anything contained in this Act, if a post is vacant in the University, Chancellor, in case of Vice-chancellor, in consultation of the Pro-chancellor and Vice-chancellor in case of any other Authority, shall designate any of the senior (most) Professor to that post to conduct daily business for a period of three months till the date of fulfillment of the vacant post.
