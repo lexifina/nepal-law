@@ -1,0 +1,2 @@
+# Sec. 38A. Approval to be obtained
+Notwithstanding anything contained in this Act, approval of the Government of Nepal shall be taken while framing Rules or performing any act in case such matter causes additional financial burden to the Government of Nepal.
