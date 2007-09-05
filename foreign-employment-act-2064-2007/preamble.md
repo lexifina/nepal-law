@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Amend and Consolidate Laws Relating to Foreign Employment Preamble: Whereas, it is expedient to amend and consolidate laws relating to foreign employment in order to make foreign employment business safe, managed and decent and protect the rights and interests of the workers who go for foreign employment and the foreign employment entrepreneurs, while promoting that business; Now, therefore, be it enacted by the Legislature-Parliament.
