@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Provide for Protection of Plants Preamble : Whereas, it is expedient to make legal provisions for preventing the introduction, establishment, prevalence and spread of pests while importing and exporting plants and plant products, promoting trade in plants and plant products by adopting appropriate measures for their effective control; Now, therefore, be it enacted by the Legislature-Parliament.
