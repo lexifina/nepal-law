@@ -1,0 +1,2 @@
+# Preamble
+An Act enacted to Provide Legal Provisions in relation to the Banking Offences and Punishments Preamble: Whereas it is expedient to provide legal provisions on banking offences and punishments with a view to promoting trust towards banking and financial system thereby mitigating the consequences and the risks that the banking and financial system may suffer on account of the offences may be occurred in course of transactions of Banks and Financial Institutions be it enacted by the Legislative Parliament . Chapter-1 Preliminary
