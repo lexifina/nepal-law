@@ -1,0 +1,2 @@
+# Preamble
+Act Number 9 of the year 2064(2007) enacted by the Legislature-Parliament An Act made to make legal provisions in relation to decorations Preamble : Whereas, it is expedient to make timely provisions on the provisions of conferring decoration such as honours and titles, decorations and medals on behalf of the country in recognition and honor of personalities who render outstanding contribution to various walks of national life; Now, therefore, be it enacted by the Legislature-Parliament.
