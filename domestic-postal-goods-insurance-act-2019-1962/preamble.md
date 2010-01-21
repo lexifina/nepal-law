@@ -1,0 +1,2 @@
+# Preamble
+Act Number 18 of the year 2019 (1962) ………………… An Act Made To Provide For Insurance of Goods To Be Dispatched by Post within ……………. Nepal Preamble : Whereas, it is expedient to provide for insurance against the loss of or damage to the goods to be dispatched by post within …………… Nepal, and for the provision of compensation if such goods are loss or damaged; Now, therefore, His Majesty King Mahendra Bir Bikram Shah Dev has made this Act pursuant to Article 93 of the Constitution of Nepal.
