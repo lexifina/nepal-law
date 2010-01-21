@@ -1,0 +1,2 @@
+# Preamble
+Act Number 11 of the Year 2059 (2002) An act made to provide for provisions to regulate the Procedures of the Impeachment Preamble: Whereas, the Interim Constitution of Nepal 2063 (2006) has provided for provisions on the proceedings of impeachment against sitting officials of constitutional bodies; and Whereas, it is expedient to provide for legal provisions to regulate the procedure of impeachment; Now, therefore, be it enacted by the Parliament in the First year of reign of His Majesty the King Gyanendra Bir Bikaram Shah Dev.
