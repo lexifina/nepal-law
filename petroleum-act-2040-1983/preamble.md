@@ -1,0 +1,2 @@
+# Preamble
+An Act made to provide for Petroleum Preamble : Whereas, it is expedient to make legal provision with respect to the development of Petroleum resources occurring within the country in order to promote the welfare and economic interest of the people in general and the economic development of the nation, Now, therefore, be, it enacted by His Majesty King Birendra Bir Bikram Shah Dev, on the advice and with the consent of the Rastriya Panchayat.
