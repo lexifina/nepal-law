@@ -1,0 +1,2 @@
+# Preamble
+An Act made to reform provision of justice relating to revenue Preamble : Whereas, it is expedient to make timely reform in the provision of justice relating to revenue in order to maintain convenience and economic interests of the general public; Now, therefore, be it enacted by His Majesty King Birendra Bir Bikram Shah Dev on the advice and with the consent of the Rastirya Panchayat .
