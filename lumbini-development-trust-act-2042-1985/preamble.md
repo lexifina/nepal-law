@@ -1,0 +1,2 @@
+# Preamble
+An Act made to provide for the Lumbini development Trust Preamble : Whereas, it is expedient to provide for the Lumbini Development Trust, in order to present the commitment of Government of Nepal to project the goal and ideal of development of Lumbini more effectively before the world community, and to operate the Lumbini Development Plan in a more coordinated and smooth manner. Now therefore, be it enacted by His Majesty King Birendra Bir Bikram Shah Dev on the advice and with the consent of the Rastriya Panchayat.
