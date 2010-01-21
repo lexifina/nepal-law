@@ -1,0 +1,5 @@
+# Sec. 33A. To merger or be merged
+(1) Notwithstanding anything contained in the Associations Registration Act, 2034(1977), if two-thirds members of the number of members present at the general meeting of the institution carrying out the act of financial intermediation pursuant to this Act supports a proposal to merge another institution to it or be merged to another institution, the proposal shall be deemed to have been passed by the general meeting.
+Provided that, no proposal may be passed in a manner to merge or be merged to any institution that has not carried out the act of financial intermediation.
+(2) The proposal passed pursuant to Sub-section (1) shall be submitted to the office registering the institution to be merged and come into force only when separate approval is received from that office and the Bank. After the receipt of such approval, the legal identity of such an institution shall be deemed to have ipso facto lapsed.
+(3) The properties of the institution to be merged pursuant to Sub-section (1) shall be transferred to the merging institution, and the merging institution shall bear all liabilities of that institution.

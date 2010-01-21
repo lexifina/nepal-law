@@ -1,0 +1,2 @@
+# Sec. 21A. To recover from household properties of office-bearers
+If any office-bearer of an institution carries out, or causes to be carried out the act of financial intermediation being guided by personal interest or with mala fide intention, and contrary to the objectives of this Act or misappropriates the amounts of the institution, the Bank shall recover, or cause to be recovered, the amount so misappropriated from the personal properties of such an office-bearer or from the movable and immovable properties held in his or her name and ownership in…………. Nepal.
