@@ -1,0 +1,3 @@
+# Sec. 5B. To enter into agreement with contractor of river transport to ferry mail across the river free of charge
+( 1) An office or organization authorized to award contract for ferry service as per prevailing Nepal Law shall cause to enter into an agreement with the contractor at the time of awarding a contract to transport mail to postal system operated by the Government of Nepal free of charge.
+(2) In relation to the ferry contracts awarded before the commencement of this Act, the Government of Nepal may make separate arrangement with the contractor for rendering ferry service to transport the mail free of cost.

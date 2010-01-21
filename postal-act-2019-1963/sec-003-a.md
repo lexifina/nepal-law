@@ -1,0 +1,3 @@
+# Sec. 3A. License may be issued to private sector for operating postal services
+(1) Notwithstanding anything contained in other Sections of this Act, the Government of Nepal may issue license to a person or organization to operate postal services to be operated pursuant to this Act subject to conditions as prescribed.
+(2) If a licensed person or organization (licensee) pursuant to Sub-section (1) commits or causes to commit any act in contravention to the conditions or this Act or Rules hereunder, the compensation in lieu of the damage caused shall be recovered from such person or organization; and such a person shall be liable for a fine upto Two Thousand Five Hundred Rupees or imprisonment for upto Five years or the both.
