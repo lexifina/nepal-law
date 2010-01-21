@@ -1,0 +1,2 @@
+# Preamble
+Act Number 17 of the Year 2026 (1969) An Act made to provide for appointment of commissions of inquiry and other related matters Preamble : Whereas, it is expedient to make provisions on the appointment of commission of inquiry and on the powers of such commissions; Now, therefore, be it enacted by His Majesty King Mahendra Bir Bikram Shah Dev on the advice and with the consent of the Rastriya Panchayat .
