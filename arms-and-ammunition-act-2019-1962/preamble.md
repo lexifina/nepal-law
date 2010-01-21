@@ -1,0 +1,2 @@
+# Preamble
+Act Number 45 of 2019 (1962) An Act to consolidate and amend the Nepal laws relating to Arms and Ammunition Preamble : Whereas, it is expedient to consolidate and amend the existing Nepal Law relating to Arms and Ammunition for maintaining security and law and order in Nepal, Now, therefore, be it enacted by His Majesty King Mahendra Bir Bickram Shah Dev in accordance with article 93 of the Constitution of Nepal.
