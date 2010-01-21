@@ -1,0 +1,2 @@
+# Preamble
+Act Number 20 of the year 2058 (2002) An Act made to provide for the establishment of National Foundation for Upliftment of Aadibasi/Janjati Preamble : Whereas, it is expedient to establish and operate a Foundation for upliftment of Aadibasi/Janjati for social, economic and cultural development and upliftment of various Aadibasi/Janjati of Nepal and for their equal participation in the mainstream of national development, Now, therefore, be it enacted by the Parliament in the first year of the reign of His Majesty King Gyanendra Bir Bikram Shah Dev.
