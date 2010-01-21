@@ -1,0 +1,3 @@
+# Sec. 43A. Trust may designate Trustee
+(1) Trust may designate Committee, Sub-Committee or member of such Committee, Sub -Committee or any Officer staff of Trust to function as a Trustee, upon giving authority to exercise the powers and responsibility conferred on it, in order to manage for investment of, as per the condition of related Scheme, the capital fund accumulated from depositors and investors pursuant to this Act or to discharge obligation as per agreement done with any other corporate body in this regard.
+(2) Functions and duties of the Trustee designated by the Trust pursuant to Sub Section (1) shall be as prescribed.
