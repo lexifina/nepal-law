@@ -1,0 +1,2 @@
+# Preamble
+Act Number 2 of the year 2028 (1971) An Act to Amend and Consolidate Law Relating to Local Administration Preamble : Whereas, it is expedient to amend and consolidate law related to local administration to make consistent with decentralized administrative system and maintain peace and order. Now, therefore, be it enacted by His Majesty King Mahendra Bir Bikarm Shah Dev on the advice and with consent of Rastriya Pachayat .
