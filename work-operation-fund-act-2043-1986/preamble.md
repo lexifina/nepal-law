@@ -1,0 +1,2 @@
+# Preamble
+Act Number 13 of the year 2043 (1986) ……………………… An Act Made to Provide for Work Operation Fund Preamble : Whereas, it is expedient to provide for the work operation fund in order to accelerate the pace of development by making financial administration simpler and more convenient and provide economic facility to the general public; Now, therefore, His Majesty King Birendra Bir Bikram Shah dev has, on the advice and with the consent of the National Panchayat, made this Act.
