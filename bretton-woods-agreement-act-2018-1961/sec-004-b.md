@@ -1,0 +1,2 @@
+# Sec. 4B. Obligation to reconstitute the holdings of used special drawing rights
+If the special drawing rights are used on behalf of the Government of Nepal as provided in Section 6 (a) of Article 19 of the Fund Agreement, and as set out in Schedule 13, the Minister for Finance shall reconstitute the special drawing rights to the extent so used, and all payments required to be made in effecting such reconstitution shall be made out of the Consolidated Fund of the Government of Nepal.
