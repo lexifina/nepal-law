@@ -1,0 +1,2 @@
+# Preamble
+Act No. 7 of 2051 (1993) An Act Made to Provide for Working Journalists Whereas, it is expedient to make timely provisions for the rights, interests, convenience and security of working journalists and develop fair journalism by encouraging promotion of their professional efficiency; Now, therefore, be it enacted by the Parliament in the Thirty-third year of reign of His Majesty King Birendra Bir Bikram Shah Dev.
