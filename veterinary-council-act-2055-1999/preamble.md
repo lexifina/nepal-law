@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Provide for the Nepal Veterinary Council Preamble: Whereas, it is expedient to establish the Nepal Veterinary Council in order to manage and making effective the veterinary business in Nepal and also to provide for the registration of name according to the qualifications of the veterinary doctors; Now, therefore, Parliament has enacted this Act in the Twenty Seventh year of the reign of His Majesty King Birendra Bir Bikram Shah Dev.
