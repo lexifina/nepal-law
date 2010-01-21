@@ -1,0 +1,2 @@
+# Sec. 23B. This Act to prevail on tax provision
+Notwithstanding anything contained in the law in force, except in cases where the Financial Act to be enforced in every year amends this Act and provides for imposition, assessment, increase, decrease, exemption, or remission of tax, no other Act shall make any amendment to, or alter tax provisions referred to in this Act or make other tax related provisions.
