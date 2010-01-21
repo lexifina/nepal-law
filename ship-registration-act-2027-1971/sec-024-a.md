@@ -1,0 +1,3 @@
+# Sec. 24A. Power of Government of Nepal to have inspection or demand details
+(1) The Government of Nepal may, at any time, depute a team of officers and carry out inspection a Nepalese ship registered pursuant to this Act and inquire into the activities of a body corporate managing the operation of such a ship.
+(2) The Government of Nepal may give order to a body corporate managing the operation of a ship pursuant to this Act to submit necessary details relating to the activities of the body corporate and progress report within at least Fifteen days as specified by the Government of Nepal, and if such an order is given, it shall be the duty of the chief of the concerned body corporate to submit such details or report.
