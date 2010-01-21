@@ -1,0 +1,2 @@
+# Sec. 10A. Appointment of main priest and other priests
+10A.1 Appointments of the main priest and other priests of the Lord Pashupatinath temple and the priest (Mul Bhatta) of the Basukinath temple shall be made by the Patron on the recommendation of the Council. 10A.2 Appointments of the priests, Bhandari and Bisets of other shrines and temples, except those mentioned in Sub-section 10A.1 shall be made by the Council.

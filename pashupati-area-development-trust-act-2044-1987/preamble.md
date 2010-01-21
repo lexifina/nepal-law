@@ -1,0 +1,2 @@
+# Preamble
+Act Number 5 of the Year 2044 (1987) An Act Made to Provide for the Pashupati Area Development Trust Preamble : Whereas, it is expedient to make provisions relating to the Pashupati Area Development Trust in order to safeguard, maintain and develop the Lord Pashupatinath area and maintain the decency and convenience of the general people; Now, therefore, be it enacted by His Majesty King Birendra Bir Bikram Shah Dev on the advice and with the consent of the National Panchayat .
