@@ -1,0 +1,2 @@
+# Preamble
+Act Number 13 of the year 2028 (1971) ……………………… An Act Made to Provide for Land of Jhora Area Preamble : Whereas, it is expedient to timely manage the lands of the Jhora area where deforestation has taken place in Morang, Sunsari and Jhapa districts in order to maintain peace and order and economic interest of the general public; Now, therefore, His Majesty King Mahendra Bir Bikram Shah dev has, on the advice and with the consent of the National Panchayat , made this Act.
