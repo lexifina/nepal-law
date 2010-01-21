@@ -1,0 +1,2 @@
+# Preamble
+Act Number 54 of 2019 (1963) An Act to amend and consolidate the Nepal airline Act Preamble : Whereas it is expedient to amend and consolidate the Nepal Airlines Act, 2014 (1958) for the convenience of the people in general. Now therefore, be it enacted by His Majesty King Mahendra Bir Bikram Shah Dev in accordance with the provision of Article 93 of the Constitution of Nepal, 2019 (1963).
