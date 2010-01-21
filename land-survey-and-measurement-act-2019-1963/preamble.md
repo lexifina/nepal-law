@@ -1,0 +1,2 @@
+# Preamble
+An Act made to provide for survey and measurement of lands Preamble : Whereas, it is expedient to make arrangements for the survey and measurement of lands and for determining their grade in order to maintain cordial relations between people of different classes, communities or regions in ……Nepal and to maintain convenience of the citizens of Nepal generally; Now, therefore, His Majesty King Mahendra Bir Bikram Shah Dev has enacted this Act in accordance with Article 93 of the Constitution of Nepal.

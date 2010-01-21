@@ -1,0 +1,3 @@
+# Sec. 9B. General responsibilities of landholders and tenants
+(1) The tenant, if any, of the land on which the control point station is set up and failing such a tenant, the landholder shall do all reasonable acts to safeguard the control point station.
+(2) If, except as a result of an act of God, the control point station sustains any loss or damage in any manner or is shifted, demolished or destroyed, the person who has responsibility pursuant to Sub-section (1) shall, unless otherwise proved, be deemed to have caused loss or damage to, shifted, demolished or destroyed the control point station.

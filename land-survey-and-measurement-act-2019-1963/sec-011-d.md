@@ -1,0 +1,3 @@
+# Sec. 11D. Aerial survey, map publication etc. may be made by obtaining approval
+Notwithstanding anything contained in the other Sections of this Act, if any person, other than the prescribed authority , wishes to make an aerial survey, use the control stations set up by the Government of Nepal, publish maps prepared by the Government of Nepal or sell maps published abroad within ……Nepal such a person may do so, subject to the observance of the prescribed terms and conditions.
+Provided that, no map published in aboard shall be sold in Nepal if it contradicts with the map prepared by Government of Nepal.

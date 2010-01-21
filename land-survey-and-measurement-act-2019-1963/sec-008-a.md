@@ -1,0 +1,2 @@
+# Sec. 8A. Cancellation of registration records upon receipt of details
+The concerned General Survey Office or Survey Office shall submit the details relating to the survey and measurement within One Hundred Twenty days after the date of distribution of the land ownership registration certificates, and upon receipt of such details, the previous registration records of survey and measurement shall ipso facto be canceled.

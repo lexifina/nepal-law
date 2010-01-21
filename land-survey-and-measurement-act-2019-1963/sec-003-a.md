@@ -1,0 +1,3 @@
+# Sec. 3A. General duties of Jimidar, Patuwari
+(1) Within the time-limit specified by the Land-Revenue Office in the concerned district, the Jimidar, Patuwari shall prepare records setting out detailed description of the lands the records of which are in his or her custody including the plot numbers of lands and hand over the same to the concerned Land-Revenue Office .
+(2) If the act of making survey, mapping or establishing control point locations commences in the concerned area of their area ( Mauja ), the Jimidar, Patuwari or their representatives shall make presence and assistance as and when so required by the survey team from the commencement of that act to the end thereof.
