@@ -1,0 +1,2 @@
+# Preamble
+Act Number 32 of the year 2017 (1961) ………………… An Act Made To Make Timely Provisions Relating To States and Principalities Whereas, it is expedient to make timely provisions in relation to states and principalities of kings with a view to maintaining cordial relations between the people of different classes, occupations or regions by further consolidating the national unity forged by His Majesty King Prithvi Narayan Shah Dev. Now, therefore, His Majesty the King has made this Act in accordance with Article 93 of the Constitution of Nepal .
