@@ -1,0 +1,2 @@
+# Preamble
+Act Number 16 of the year 2053(1997) An Act Made to Provide for Remuneration, Terms of Service and Facilities of Office-bearers of Constitutional Bodies Preamble : Whereas, it is expedient to make legal provisions on the remuneration, terms of service and facilities of office-bearers of the Constitutional Bodies; Now, therefore, be it enacted by Parliament in the Twenty-fifth year of the reign of His Majesty King Birendra Bir Bikram Shah Dev.
