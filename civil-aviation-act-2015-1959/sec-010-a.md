@@ -1,0 +1,5 @@
+# Sec. 10A. Penalties for access to the restricted areas without permission
+(1) Government of Nepal may, by a Notification published in the Nepal Gazette, designate the prescribed area of any aerodrome, specified in the same notice, as the restricted area; and following such designation, it shall be the responsibility of the Chief Official of the concerned aerodrome to keep displaying such notice in main places of people's passage, around such restricted area.
+(2) Any person without obtaining permission of the chief official of the concerned aerodrome shall not enter into the restricted area designated under Sub-section (1).
+Provided that, where the chief official of the concerned aerodrome has, having deemed it reasonable, displaced the notice allowing the general public to travel within such area in any time for some period, it shall be deemed, for the purposes of this Sub-section, to have permission obtained to enter into such restricted area in such time.
+(3) A person who enters into the restricted area in contravention of Sub-section (2) may be liable to a fine not exceeding Two Hundred Rupees, by an order of the chief official of the concerned aerodrome.

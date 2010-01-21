@@ -1,0 +1,3 @@
+# Sec. 9F. Accused or offender may be extradited
+(1) In case where a person committing the crime under Section 9A is a Non-Nepalese citizen and the state, in the territory of which the crime is committed or the crime is committed against the aircraft of which registration, requests the extradition of such person, Government of Nepal may, notwithstanding anything contained in the Extradition Act, 2045, extradite such person; and where he/she is not so extradited, a suit against such person shall be initiated in the court of Nepal for punishing him/her.
+(2) With respect to extradition, any offense mentioned in Section 9A shall not be treated as a political crime notwithstanding committed by any person irrespective of his/her position or the motive therefor.

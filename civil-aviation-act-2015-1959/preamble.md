@@ -1,0 +1,2 @@
+# Preamble
+Act Number 22 of the Year 2015 An Act Made to Control and Regulate Civil Aviation Preamble : Whereas, it is expedient to control and regulate civil aviation to create conditions favourable to promote the development of civil aviation so that the country could acquire maximum benefit from the air transportation, and to maintain peace, order and convenience of the people in general, Now, therefore, be it enacted and promulgated by His Majesty the King on the advice of the Council of Ministers.

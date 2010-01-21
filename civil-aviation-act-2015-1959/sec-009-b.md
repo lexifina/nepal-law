@@ -1,0 +1,4 @@
+# Sec. 9B. Aircraft in flight or in service
+(a) An aircraft shall be deemed to be in flight at any time from the moment with all its external doors are closed following embarkation until the moment when any such door is opened for disembarkation.
+Provided that, in case of a forced landing, the aircraft shall be deemed to be continued in flight until the competent authorities take over the responsibility for the aircraft and for persons and property on board.
+(b) An aircraft shall be deemed to be in service from the beginning of the preflight preparation of the aircraft by ground personnel or by the crew for a specific flight until Twenty Four hours after landing. Such period of service shall, in any event, extend for the entire period during which the aircraft is in flight as defined in Clause (a) above.
