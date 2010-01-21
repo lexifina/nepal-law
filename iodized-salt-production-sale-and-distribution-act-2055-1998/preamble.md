@@ -1,0 +1,2 @@
+# Preamble
+An Act made to provide for iodized salt Whereas, it is expedient to make provision for the production, import, supply, sale, distribution of iodized salt in a proper quantity and for mixing iodine with salt in order to prevent and eradicate extensive and serious effects caused to public health from iodine deficiency; Now, therefore, be it enacted by Parliament in the Twenty Seventh reign of H is Majesty King Birendra Bir Bikram Shah De v.
