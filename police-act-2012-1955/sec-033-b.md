@@ -1,0 +1,11 @@
+# Sec. 33B. Others serious crimes
+A police employee shall be punished with imprisonment for a term of Ten years or to a fine not exceeding the total amount of his or her Two years' salary or with both if he or she commits any of the following crimes:
+(a) In case he or she takes or instigates any action by way of written or spoken words, images and symbols or otherwise in such a manner as to foment hatred, malice or contempt towards the Government of Nepal or to prejudice the acts of the Government of Nepal and the sovereignty or territorial integrity and identity of ………Nepal, or attempts to do so,
+(b) In case he or she indulges in or prepares to indulge in depredations within the territory of any friendly nation the Government of Nepal or extends any support or information to any person doing so or contacts such person with the intention of doing so,
+(c) In case he or she runs away in a cowardly manner when confronted by dacoits, smugglers, miscreants or hooligans, following their raid on the station, post, guard-post, patrol, team or any other installation or office to which he or she has been assigned or which he or she is in charge of, or is required to defined or when he or she apprehends such confrontation,
+(d) In case he or she sells arms and ammunitions that belongs to the government or any other person and are under his or her custody.
+(e) In case he or she leaves his or her station, post, guard-post, patrol, picket, team, installation or office for the purpose of looting,
+(f) In case he or she makes a criminal use of force against any employee or attempts or threatens to do so, knowingly or having reason to believe that such employee is of a higher rank, irrespective of whether or not the latter is on duty,
+(g) In case he or she fails to surrender promptly the letter of appointment and arms and ammunitions, equipment, tools, materials, cash, in-kind goods belonging to the government or any other person, which were under his or her custody while he or she was in office or to submit satisfactory particulars thereof, on receipt of order from a superior officer or on termination of his or her service,
+(h) In case he or she burgles a house or any other place with the intent to loot, or loots property in any manner, or causes loss or damage thereto,
+(i) In case he or she shows cowardice while discharging his or her duties.

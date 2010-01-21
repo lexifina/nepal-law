@@ -1,0 +1,2 @@
+# Sec. 36A. power to constitute a separate police special court
+Notwithstanding anything contained in Section 36, in case a deputy superintendent of police or officer of higher rank and a police employee of lower rank commit any offense punishable under this Chapter in an organized manner, the Government of Nepal may, by a Notification in the Nepal Gazette, constitute a separate Police Special Court with original jurisdiction in respect of the cases filed against them.

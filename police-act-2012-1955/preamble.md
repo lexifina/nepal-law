@@ -1,0 +1,2 @@
+# Preamble
+Act Number 8 of the year 2012 (1955) An Act Made to Provide for the Formation and Arrangement of Nepal Police Force and Specification of the Functions and Duties of Police Personnel Whereas, it is expedient to reorganize the police force of the whole of Nepal, and make it a capable instrument for preventing and investigating crime and maintaining law and order; Now, therefore, His Majesty the King has framed and promulgated this Act.

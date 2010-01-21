@@ -1,0 +1,1 @@
+Schedule ................... has been appointed as an employee of the police force under the Police Act, 2012 (1955), and he or she shall be entitled to the powers, duties and facilities of the police employee. Competent person issuing certificate
