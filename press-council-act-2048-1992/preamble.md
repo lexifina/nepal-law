@@ -1,0 +1,2 @@
+# Preamble
+Act Number 25 of the Year 2048 (1992) An Act provided for the establishment and management of a Press Council Preamble : Whereas, it is expedient to establish and make arrangement for a Press Council for the development and promotion of healthy, independent and responsible journalism by way of maintaining the highest professional ethics of journalism; Now, therefore, be it enacted by the Parliament in the Twentieth Year of the reign of His Majesty King Birendra Bir Bikram Shah Dev.
