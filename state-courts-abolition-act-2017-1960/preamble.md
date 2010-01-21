@@ -1,0 +1,2 @@
+# Preamble
+Act Number 2 of the year 2017 (1960) ………………… An Act Made To Abolish State Courts Whereas, it is expedient to abolish state courts in order to reform the existing administration of justice with a view to maintain peace and order and convenience of the citizens of Nepal; Now, therefore, Parliament has made this Act in the sixth year of reign of His Majesty King Birendra Bir Bikram Shah Dev.
