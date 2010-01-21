@@ -1,0 +1,2 @@
+# Preamble
+Act Number 37 of the Year 2064 (2008) An Act to make provisions relating to Patan Academy of Health Sciences Preamble : Whereas, it is expedient to establish and operate the Patan Academy of Health Sciences to conduct high standard study and research activities, to produce skilled human resource necessary for the Country in the Health Sciences area and to provide health services to the general public by strengthening health service; Now, therefore, be it enacted by the Legislature-Parliament.
