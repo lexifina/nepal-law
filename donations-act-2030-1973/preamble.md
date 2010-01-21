@@ -1,0 +1,2 @@
+# Preamble
+Act Number 3 of the Year 2030 (1973) An Act made to provide for provisions on donations Preamble: Whereas, it is expedient to manage the use and operation of the amount of donation collected from general public for educational and social institution as well as for other development activities and to maintain convenience and economic interest of general public; Now, therefore, be it enacted by His majesty the king Birendra Bir Bikkram Shah Dev on the advice and with the consent of Rastraya Panctayat .
