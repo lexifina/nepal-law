@@ -1,0 +1,2 @@
+# Preamble
+Act Number 25 of the Year 2034 (1978) An Act Made to Provide for Land Revenue Preamble : Whereas, it is expedient to amend and consolidate the provisions relating to collection and recovery of the land revenue and to make some additional provisions on cultivation of land; Now, therefore, be it enacted by His Majesty King Birendra Bir Bikram Shah Dev on the advice and with the consent of Rastriya Panchayat .

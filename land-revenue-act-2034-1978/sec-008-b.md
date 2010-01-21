@@ -1,0 +1,4 @@
+# Sec. 8B. To Withhold or Release House and Land
+(1) If any house or land has to be withheld owing to dispute thereof or for any other reason, the Land Revenue Office may withhold such a house or land.
+(2) If any office, court or government office writes to withhold any house or land or to release the withholding of any house or land pursuant to the laws in force, the Land Revenue Office shall withhold or release such a house or land as so written.
+(3) If any bank, financial institution established pursuant to the law in force or local body writes to withhold any house or land or to release the withholding of any house or land in the course of its financial transactions, the Land Revenue Office shall withhold or release such a house or land as prescribed. In so withholding or releasing the withholding, the Land Revenue Office shall collect the fees as prescribed, in the case of a bank or financial institution.

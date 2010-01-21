@@ -1,0 +1,2 @@
+# Sec. 32B. Power to void acts and actions
+If it is learnt, by a petition of anyone or from any source, prior to the making of a complaint in the court, that a serious error has been made by the Land Revenue Officer in making transfer and transmission of land pursuant to this Act and amending the details as set forth in Sub-section (3) of Section 7, the Director General of Land Revenue Department may void that decision and may decide again pursuant to law.
