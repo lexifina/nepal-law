@@ -1,0 +1,2 @@
+# Preamble
+Act Number 31 of the Year 2033 (1976) An Act made in order to make Reforms in Social Practices Preamble: Whereas, it is expedient to impose restriction on existing as well as growing competitive pomp and worthless expenses in social practices in order to make reforms. Now, therefore, be it enacted by His Majesty the King Birendra Bir Bikram Shah Dev on the advice and with the consent of Rastrya Panchayat .
