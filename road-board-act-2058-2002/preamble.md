@@ -1,0 +1,2 @@
+# Preamble
+Act Number 2A. of the Year 2058 (2002) An Act Made to provide for the Road Board Preamble : Whereas, it is expedient to make necessary provisions on having the roads repaired and maintained, making cost effective the expenditures to be incurred in repairing and maintaining the roads and making transparent and effective the repairing and maintenance works of the roads. Now, therefore, be it enacted by Parliament in the First year of the reign of His Majesty the King Gyanendra Bir Bikram Shah Dev.
