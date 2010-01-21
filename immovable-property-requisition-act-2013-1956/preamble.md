@@ -1,0 +1,2 @@
+# Preamble
+Act Number 5 of the Year 2013 (1956) An Act made in order to Requisition of Immovable Property Preamble : Whereas, it is expedient to make appropriate provisions in order to requisition of immovable property for maintaining law and order as well as the convenience and economic interest of general public; Now, therefore, be it enacted by His Majesty King on the advice of Council of Ministers.
