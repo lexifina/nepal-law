@@ -1,0 +1,2 @@
+# Preamble
+Act Number 12 of the year 2050 (1993) ………………… Preamble : Whereas, it is expedient to make legal provisions for the establishment and operation of a Local Development Training Academy to arrange for trainings in a planned manner for the persons involved in local bodies with a view to enhancing the administrative and managerial competency of the local bodies related with local development works; Now, therefore, Parliament has made this Act in the twenty second year of the reign of His Majesty King Birendra Bir Bikram Shah Dev.
