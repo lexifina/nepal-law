@@ -1,0 +1,2 @@
+# Preamble
+Act Number 22 of the year 2025 (1968) An Act made to provide for provisions to impose restriction on lottery Preamble : Whereas, it is expedient to impose restriction on sale, distribution and operation of lottery in order to maintain good conduct and economic interest of general public. Now, therefore, be it enacted by His Majesty the King Mahendra Bir Bikram Shah Dev on the advice and with the consent of Rastrya Panchayat.
