@@ -1,0 +1,2 @@
+# Preamble
+Act Number 3 of the Year 2058 (2001) An act made to establish and operate the Armed Police Force Preamble : Whereas, it is expedient to establish and operate the armed police force for the protection of life, property and liberty of the people by maintaining peace and order in Nepal, Now, therefore, be it enacted by the Parliament on the First year of reign of His Majesty King Birendra Bir Bikram Shah Dev.
