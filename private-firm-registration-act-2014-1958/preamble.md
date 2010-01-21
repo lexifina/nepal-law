@@ -1,0 +1,2 @@
+# Preamble
+Act Number 20 of the Year 2014 (1958) An Act made to provide for provisions in order to register private firms Whereas, it is expedient to provide for provisions on registration of private firms engaged in trade and industry and other related provisions there with in order to maintain the convenience and economic interest of general public . Now, therefore, be it enacted and promulgated by His Majesty King.
