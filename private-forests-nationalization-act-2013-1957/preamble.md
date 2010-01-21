@@ -1,0 +1,2 @@
+# Preamble
+Act Number 18 of the year 2013 (1957) ………………… An Act Made To Nationalize Private Forests Preamble : Whereas, it is necessary to nationalize private forests in order to prevent the destroy of national wealth given that forests constitute an essential component of national wealth and to provide for the protection and proper use of forests for the interest of the country and people; Now, therefore, His Majesty the King has, on the advice of the Council of Ministers, made and issued this Act.
