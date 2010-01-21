@@ -1,0 +1,2 @@
+# Preamble
+Act Number 19 of the year 2015(1958) An Act Made to Prohibit the Charging and Taking of Amount ( Bhatti Charsa etc.) by Birta-holder on Birta Preamble : Whereas, it is expedient to make provisions prohibiting the charging and taking of amount by the Birta -holders except the crops of Birta lands; Now, therefore, His Majesty has made and issued this Act on the advice of the Council of Ministers.
