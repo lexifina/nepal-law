@@ -1,0 +1,2 @@
+# Preamble
+Act Number 18 of the year 2023 (1966) ………………… An Act Made to Manage Hotels and Control Sale and Distribution of Liquors Preamble : Whereas, it is expedient to manage hotels and control the sale and distribution of liquors in order to maintain the decency, convenience, health and economic interest of the general public; Now, therefore, His Majesty King Mahendra Bir Bikram Shah Dev has, on the advice and with the consent of the National Panchayat , made this Act.
