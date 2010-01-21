@@ -1,0 +1,2 @@
+# Sec. 12A. Approval and operation of the planning of physical development
+12A1. In case any institution intends to operate the physical development planning in the area where town planning has come into force, it shall take approval from the committee. 12A2. After taking approval from the committee pursuant to Sub-section 12A.1, the concerned institution shall operate the approved plan as per the terms and standard prescribed by the Committee.
