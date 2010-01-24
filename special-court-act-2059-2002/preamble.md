@@ -1,0 +1,2 @@
+# Preamble
+Act Number 2 of 2059 Act enacted to make provision with regard to the constitution, power and procedure of the Special Court Preamble: Whereas it is expedient to make timely provision with regard to the constitution, power and procedure of Special Court in order to accomplish the trial and decision of the special types of cases in an expeditious, prompt and effective manner, Now, therefore, this Act has been enacted by the parliament in the first year of the reign of His Majesty King Gyanendra Bir Bikram Shahadev.
