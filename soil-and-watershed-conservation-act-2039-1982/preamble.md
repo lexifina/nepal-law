@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Provide for Soil and Watershed Conservation Preamble: Whereas, it is expedient to make legal provisions on the land and watershed conservation by controlling natural calamities such as flood, landslide and soil erosion and maintain convenience and economic interests of the general public; Now, therefore, His Majesty King Birendra Bir Bikram Shah Dev has, on the advice and with the consent of the National Panchayat, enacted this Act.
