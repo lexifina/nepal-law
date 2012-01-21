@@ -1,0 +1,2 @@
+# Preamble
+Act No. 14 of 2068 (2012) Preamble : Whereas, it is expedient to make legal provisions with regard to the functions, duties, powers and procedures of the National Human Rights Commission to ensure the respect, protection and promotion as well as effective implementation of human rights, Now, therefore, be it in enacted by Constituent Assembly in the capacity of the the Legislature Parliament pursuant to Article 83 of the Interim Constitution of Nepal, 2063.
