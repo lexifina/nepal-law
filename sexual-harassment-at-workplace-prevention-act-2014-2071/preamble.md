@@ -1,0 +1,2 @@
+# Preamble
+Act No. 7 of the Year 2013 (2071) An Act to Provide for The Prevention of Sexual Harassment At Workplace Preamble: Whereas, it is expedient to make necessary provisions for the prevention of sexual harassment at workplace by ensuring the right of every person to work in a safe, fair and dignified environment, Now, therefore, be it enacted by the Constituent-Assembly in capacity of Legislative-Parliament, pursuant to Article 83 of the Interim Constitution of Nepal, 2007 (2063).
