@@ -1,0 +1,2 @@
+# Preamble
+Act No. 22 of the year 2017 (2073) An Act Made to Amend and Consolidate Laws Relating to Functions, Duties and Powers of the Election Commission Preamble: Whereas, it is expedient to amend and consolidate the prevailing Nepal laws relating to the functions, duties and powers of the Election Commission, Now, therefore, be it enacted by the Federal Parliament pursuant to Article 296 sub-article (1) of the Constitution of Nepal.
