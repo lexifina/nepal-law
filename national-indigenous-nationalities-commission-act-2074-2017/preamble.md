@@ -1,0 +1,2 @@
+# Preamble
+Act No. 19 of the year 2017 (2074) An Act made to make arrangements relating to National Indigenous Nationalities Commission Preamble: Whereas, it is expedient to make necessary arrangements relating to National Indigenous Nationalities Commission for the identification of the glorious history and culture of Indigenous nationalities, protection and promotion of their rights and interests and the empowerment of the communities, Now, therefore, be it enacted by the Federal Parliament pursuant to Article 296 sub-article (1) of the Constitution of Nepal.
