@@ -1,0 +1,2 @@
+# Preamble
+Act No. 17 of the year 2017 (2074) An Act made to make arrangements relating to National Natural Resources and Fiscal Commission Preamble: Whereas, it is expedient to make necessary arrangements relating to the power, function and duties of the National Natural Resources and Fiscal Commission, Now, therefore, be it enacted by the Federal Parliament pursuant to Article 296 sub-article (1) of the Constitution of Nepal.
