@@ -1,0 +1,2 @@
+# Preamble
+Act No. 20 of the year 2017 (2074) An Act Made to make arrangements relating to Madhesi Commission Preamble: Whereas, it is expedient to make necessary arrangements relating to Madhesi Commission for the identification of the history and culture of Madhesi Community, protection and promotion of the rights and interests of the Madhesi Community and the empowerment of the community, Now, therefore, be it enacted by the Federal Parliament pursuant to Article 296 sub-article (1) of the Constitution of Nepal.
