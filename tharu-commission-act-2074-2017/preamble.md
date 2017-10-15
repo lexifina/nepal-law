@@ -1,0 +1,2 @@
+# Preamble
+Act No. 27 of the year 2017 (2074) An Act Made to Make Arrangements Relating to Tharu Commission Preamble: Whereas, it is expedient to make necessary arrangements relating to Tharu Commission for the identification of the history and culture of Tharu Community, protection and promotion of the rights and interests and the empowerment of the Tharu community, Now, therefore, be it enacted by the Federal Parliament pursuant to Article 296 sub-article (1) of the Constitution of Nepal.
