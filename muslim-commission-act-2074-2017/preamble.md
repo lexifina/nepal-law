@@ -1,0 +1,2 @@
+# Preamble
+Act No. 31 of the year 2017 (2074) An Act Made to make arrangements relating to Muslim Commission Preamble: Whereas, it is expedient to make necessary arrangements relating to Muslim Commission for the identification of the history and culture of the Muslim Community, protection and promotion of the rights and interests of the Muslim Community and the empowerment of the Muslim community, Now, therefore, be it enacted by the Federal Parliament pursuant to Article 296 sub-article (1) of the Constitution of Nepal.
