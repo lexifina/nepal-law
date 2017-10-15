@@ -1,0 +1,2 @@
+# Preamble
+Act No. 30 of the year 2017 (2074) An Act Made to Amend and Consolidate Laws Relating to the Functions, Duties and Powers of the Women Commission Preamble: Whereas, it is expedient to amend and consolidate the prevailing Nepal laws relating to the establishment of National Women Commission for the protection and promotion of the rights and interests of women and to ensure gender justice through the empowerment of women, Now, therefore, be it enacted by the Federal Parliament pursuant to Article 296 sub-article (1) of the Constitution of Nepal.
