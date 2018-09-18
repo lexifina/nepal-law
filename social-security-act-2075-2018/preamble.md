@@ -1,0 +1,2 @@
+# Preamble
+Act Number 19 of the year 2075 An Act Made to Provide for Social Security Preamble: Whereas, it is expedient to make necessary provisions on the protection of the right to social security of the indigent citizens, incapacitated and helpless citizens, helpless single women, citizens with disabilities, children, citizens who are unable to take care themselves and citizens belonging to the tribes on the verge of extinction, in accordance with the Constitution; Now, therefore, be it enacted by the Federal Parliament.
