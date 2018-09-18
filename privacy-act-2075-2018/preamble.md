@@ -1,0 +1,2 @@
+# Preamble
+Act Number 14 of the year 2075 (2018) An Act Made to Provide for Privacy Preamble: Whereas, it is expedient to make legal provisions on promoting dignified living standards by making provisions to ensure the right to privacy of the matters relating to body, residence, property, document, data, correspondence and character of every person, to manage the protection and safe use of personal information remained in any public body or institution, and to prevent encroachment on the privacy of every person; Now, therefore be it enacted by the Federal Parliament.
