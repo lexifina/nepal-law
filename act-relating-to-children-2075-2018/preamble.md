@@ -1,0 +1,2 @@
+# Preamble
+Act Number 23 of the year 2075 (2018) An Act Made for Amendment and Consolidation of the Laws Relating to Children Preamble : Whereas, it is expedient to make amendment and consolidation of the laws relating to children in order to maintain the best interests of the children, by respecting, protecting, promoting and fulfilling the rights of the child. Now, therefore, be it enacted by the Federal Parliament.
