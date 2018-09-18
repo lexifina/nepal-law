@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Provide for Right to Food and Food Sovereignty Preamble: Whereas, it is expedient to make legal provisions on the implementation of fundamental rights relating to food, food security and food sovereignty of the citizens, conferred by the Constitution of Nepal, and making appropriate mechanism therefor, and ensuring access of the citizens to foods; Now, therefore, be it enacted by the Federal Parliament.
