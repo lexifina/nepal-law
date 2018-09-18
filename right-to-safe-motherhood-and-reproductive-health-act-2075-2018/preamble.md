@@ -1,0 +1,2 @@
+# Preamble
+Act Number 9 of the year 2075 (2018) An Act Made to Provide for the Right to Safe Motherhood and Reproductive Health Preamble: Whereas, it is expedient to make necessary provisions on making motherhood and reproductive health service safe, qualitative, easily available and accessible, in order to respect, protect and fulfill the right to safe motherhood and reproductive health of the women conferred by the Constitution of Nepal, Now, therefore be it enacted by the Federal Parliament.
