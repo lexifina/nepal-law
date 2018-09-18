@@ -1,0 +1,2 @@
+# Preamble
+Act Number 17 of the year 2075 (2018) An Act Made to Provide for the Right to Employment Preamble: Whereas, it is expedient to make necessary provisions in order to ensure the right of every citizen to employment, provide every citizen with an opportunity to choose employment according to his or her capacity, and in relation to the terms and conditions of employment and unemployment support; Now, therefore, be it enacted by the Federal Parliament.
