@@ -1,0 +1,2 @@
+# Preamble
+Act Number 11 of the year 2075 (2018) An Act Made to Provide for Public Health Service Preamble: Whereas, it is expedient to make necessary legal provisions for implementing the right to get free basic health service and emergency health service guaranteed by the Constitution of Nepal and establishing access of the citizens to health service by making it regular, effective, qualitative and easily available, Now, therefore, be it enacted by the Federal Parliament.
