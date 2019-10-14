@@ -1,0 +1,2 @@
+# Preamble
+Act Number 11 of the Year 2019 (2077) An Act made to amend and consolidate laws regarding passports Preamble : Whereas, it is expedient to amend and consolidate prevailing laws in order to regulate and manage the matters regarding passports including issuance of passport, travel document to the Nepali Citizens who intend to visit foreign countries; Now, therefore, the Federal Parliament enacts this Act.
