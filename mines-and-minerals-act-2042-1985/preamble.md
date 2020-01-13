@@ -1,0 +1,2 @@
+# Preamble
+Act Number 28 of the year 1985 An Act made to provide for matters concerning to Mines and Minerals Preamble: Whereas, in order to maintain convenience and economic welfare of the public-in-general and for rapid economic development of the country, it is expedient to develop mines and minerals deposit existing in the country; Now, therefore, be it enacted by His Majesty King Birendra Bir Bikram Shah Dev on the advice and with the consent of the Rastriya Panchayat .

@@ -1,0 +1,4 @@
+# Sec. 11A. No Significant Adverse Effect Shall be Caused on Environment While Undertaking Mining Operations
+(1) The person undertaking mining operations shall, in undertaking mining operations, have to undertake it without causing significant adverse effect on environment. Likewise, a person undertaking such operations shall have to adopt protective measures as prescribed on environmental protection.
+(2) The Department shall, in case the person undertaking mining operation is found to have caused significant adverse effect on environment, issue necessary directives to the concerned person for correction in such operations.
+Explanation: For the purpose of this Section "significant adverse effect on environment" means effect as prescribed to be caused on environment in undertaking mining operations .
