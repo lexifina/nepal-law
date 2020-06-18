@@ -1,0 +1,2 @@
+# Schedule-2
+(Relating to clause (1) of Article 9) National Anthem of Nepal Sayaun Thunga Phool Ka Hami Eutai Mala Nepali Sarvavhaum Vai Failiyeka Mechi Mahakali Prakitika Koti Koti Sampada Ko Aanchala Bir Haruka Ragata Le Swatantra Ra Atala Gyana Bhumi Shanti Bhumi Terai Pahad Himala Akhanda Yo Pyaro Hamro Matri Bhumi Nepal Bahul Jati Bhasa Dharma Sanskriti Chan Bishala Agragami Rastra Hamro Jaya Jaya Nepal.
