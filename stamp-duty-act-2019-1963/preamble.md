@@ -1,0 +1,2 @@
+# Preamble
+Act Number 34 of the Year 2019 (1963) An Act Made to Make Provisions relating to Stamp Duty Preamble : Whereas, it is expedient to levy stamp duty on the documents of income related transactions and manage the modus operandi pertaining to such stamp duty; Now, therefore, be it enacted by His Majesty King Mahendra Bir Bikram Shah Dev in accordance with Article 93 of the Constitution of Nepal.

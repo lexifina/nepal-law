@@ -1,0 +1,2 @@
+Schedule Rate of the Stamp duty Document subject to Stamp Duty Face value Rate Up to Rs. 100/- None From Rs. 101/- to 250/- Re. 1/- From Rs. 251/ to 500/- Rs. 2/- From Rs. 501/- to 750/- Rs. 3/- From Rs. 751/- to 1000/- Rs. 4/- Per thousand in excess of Rs. 1000/- Rs. 4/-
+Explanation: The duty as referred to in the Schedule shall be levied only on deed of loan or memorandum on household transaction of more than One Thousand Rupees.
