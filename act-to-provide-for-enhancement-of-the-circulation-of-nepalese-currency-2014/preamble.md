@@ -1,0 +1,2 @@
+# Preamble
+Act Number 3 of the year 2014 ……………….. An Act Made for the Enhancement of Circulation of the Nepalese Currency Whereas, it is expedient to enhance the circulation of the Nepalese currency throughout Nepal for the purpose of consolidating and balancing the economy of the country on the basis of the same currency; Now, therefore, His Majesty the King has, on the advice of the Council of Ministers, made and issued this Act.
