@@ -1,0 +1,2 @@
+# Preamble
+Act No. 27 of the year 2035 (1978) An Act Made relating to Tourism Arrangement Preamble: Whereas, it is expedient to make necessary arrangement of health, facility and interest of tourists and Nepalese tourist who visit one place to another place of Nepal and to make economic interest of general people through tourism development, Now, therefore, be it enacted by His Majesty King Birendra Bir Bikram Shah Dev with the aid and advise of the Rastriya Panchayat .

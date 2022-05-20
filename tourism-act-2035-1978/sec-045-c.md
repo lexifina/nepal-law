@@ -1,0 +1,4 @@
+# Sec. 45C. Penalty
+(1) In case, someone operating a tourism enterprise pursuant to Section 45A violates this Act or Rules made thereunder or direction or order of Government of Nepal, the prescribed officer may fine him/her upto Twenty Thousand Rupees.
+(2) In case, a tourist who commits any activity mentioned in Section 45B without obtaining an approval pursuant to this Act or Rules framed thereunder or a tourist who has obtained such approval violates this Act or Rule framed thereunder, the prescribed officer may fine him/her upto Ten Thousand Rupees.
+(3) The aggrieved person, by the order made by prescribed officer pursuant to Sub-section (1) and (2), may file a complaint before Government of Nepal within Thirty five days and a decision made by Government of Nepal to that effect shall be final.
