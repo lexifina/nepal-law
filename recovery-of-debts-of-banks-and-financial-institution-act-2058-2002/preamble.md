@@ -1,0 +1,2 @@
+# Preamble
+An Act made to provide for recovery of Debts of banks and financial institutions Preamble: Whereas, it is expedient to make provisions for the recovery of principal and interest of debts recoverable from borrowers by trying and settling cases relating to recovery of debts of banks and financial institutions in a speedy and prompt manner; Now, therefore, be it enacted by Parliament in the first year of reign of His Majesty the King Gyanendra Bir Bikram Shah Dev.
