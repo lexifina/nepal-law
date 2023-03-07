@@ -1,0 +1,2 @@
+# Preamble
+An Act to Regulate and Control International Trade in Endangered Wild Fauna and Flora Preamble: Whereas it is expedient to make necessary legal provisions for conservation of various species of the endangered fauna and flora in order to implement the Convention on International Trade in Endangered Species of Wild Fauna and Flora, 1973 to which Nepal is a party and for regulation and control of international trade thereof; it enacted by the Legislature-Parliament referred to in clause (1) of Article 296 of the Constitution of Nepal.
