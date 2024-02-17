@@ -1,0 +1,2 @@
+# Sec. 16K. Salary and allowance shall not be received and the tenure of service shall not be counted
+Except in the condition referred to in Section 16g or in case of being absent from the duty upon sanctioning leave as per the Rules, the teacher, who has been absent in the school shall not obtain the salary and allowances for the absent period and such absent period shall not be counted in his/her tenure of office.
