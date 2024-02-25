@@ -1,0 +1,4 @@
+# Sec. 18A. Property to be Confiscated
+(1) All movable or immovable property earned from doing any act in contravention of Clauses (b), (c), (d), (e) and (f) of Section 4 shall be confiscated.
+(2) If the economic resource or the property of the person convicted of any offence under Clauses (b), (c), (d), (e) and (f) of Section 4 is not in proportion of the known earning resource of the convicted person or his/her family such property unless proved otherwise by him/her shall be deemed to have been earned by the acts in contravention to this Act and shall be confiscated even if it is registered on the name of the members of his/her family or any other person.
+(3) If there are reasonable grounds that anybody has committed offence liable to be confiscating of property, then the judicial authority may withheld the property of such person, if there is a written request from Narcotic Drugs Control Officer to withheld his/her property.

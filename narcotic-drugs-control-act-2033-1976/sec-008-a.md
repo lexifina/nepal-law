@@ -1,0 +1,3 @@
+# Sec. 8A. The Particulars of Financial Transaction may be Demanded
+(1) Notwithstanding anything contained in the prevailing laws, if there is reliable ground that any person, organisation-institution, firm, company or international organisation has carried out illegal transaction of narcotic drugs, the Narcotic Drugs Control Officer may ask for the particulars of the account of such person, firm, organisation - institution, company or international organisation, kept in any bank or financial institutions.
+(2) In case the amount mentioned in the particular obtained pursuant to Sub-section (1), is seen to be used in the illegal transaction of narcotic drugs, the judicial authority may give order to the concerned bank or financial institution for freezing such amount.

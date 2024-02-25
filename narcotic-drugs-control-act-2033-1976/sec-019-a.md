@@ -1,0 +1,3 @@
+# Sec. 19A. No Proceedings are to be Undertaken while Undergoing Treatment
+(1) Notwithstanding anything contained in Clauses (a) and (d) of Sub-section (1) of Section 14, the narcotic drug consumer, while undergoing treatment or rehabilitation in a treatment or rehabilitation center established or recognized by Government of Nepal, shall not be subjected to the punishment under this Act.
+(2) The concerned officer shall prepare and keep a weekly or monthly report in the format as prescribed by Government of Nepal by asking the details of the treatment and rehabilitation from the concerned treatment and rehabilitation centre regarding those persons who are undergoing treatments in the centers as mentioned in Sub-section (1).

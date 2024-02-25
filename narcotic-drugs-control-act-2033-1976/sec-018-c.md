@@ -1,0 +1,2 @@
+# Sec. 18C. Punishment may be remitted
+Notwithstanding anything contained in prevailing laws, any person who helps in finding the principal offender and assists by providing the information and clue about gang in which he/she, him/herself engaged or other gang involved in the transaction of narcotic drug punishable under this Act, if there is a demand for full or partial remission of punishment in the charge-sheet, the judicial authority also may remit in punishment accordingly.

@@ -1,0 +1,2 @@
+# Sec. 17B. Punishment for those not providing the particulars or documents related to narcotic drugs
+In course of collection of particulars of narcotic drugs, if any particular or document is not provided by any person, organisation-institution or association, demanded by the Narcotic Drugs Control Officer or investigating authority such person, organisation-institution or association shall be liable to such punishment which shall be half of the punishment due to the actual offender.

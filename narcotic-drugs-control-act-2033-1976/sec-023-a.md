@@ -1,0 +1,3 @@
+# Sec. 23A. Prevailing Law is to be Applicable
+Notwithstanding anything contained in other provisions of this Act, the production, sale and distribution, export-import, store and consumption of medicines made in pharmacutical forms such as tablets, capsules, injections of the name and quantum as prescribed in the Pharmacopia regarding the natural or synthetic narcotic or psychotropic substances and their salt as prescribed pursuant to Sub-clause (7) of Clause (a) of Section 3, shall be governed by the Medicine Act, 2035.
+Provided that, the production sale and distribution, export-import, store and consumption of the raw materials (raw or chemicalized) of the narcotic or psychotrophic substances shall be governed by this Act."

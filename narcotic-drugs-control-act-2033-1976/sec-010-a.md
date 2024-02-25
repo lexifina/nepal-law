@@ -1,0 +1,2 @@
+# Sec. 10A. Anything may be taped or censored
+If there is an order from Investigating Authority or Judicial Authority the Narcotic Drugs Control Officer, in course of investigation of narcotic drugs, may tape the electronic devices like telephone, telex, fax of the person related to narcotic drugs, may receive copy, or may take photograph and may censor any sorts of documents to be received from post like letter, parcel document.

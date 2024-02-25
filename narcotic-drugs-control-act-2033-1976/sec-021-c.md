@@ -1,0 +1,2 @@
+# Sec. 21C. The Scientific equipments and weapons may be taken
+The authority and employees to be engaged in the investigating function of narcotic drugs and the employees related to narcotic drug control shall have the powers to carry and use scientific equipment, communication devices and weapons and the material to be used in that weapon, which are necessary in course of investigation and control activities.

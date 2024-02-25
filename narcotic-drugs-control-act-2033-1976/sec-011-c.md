@@ -1,0 +1,2 @@
+# Sec. 11C. Government of Nepal may make available the Narcotic Drugs for Preparing Medicine
+Notwithstanding anything contained in other provisions of this Act, Government of Nepal may, if it deems necessary, for cannabis/ marijuana the purpose of preparing medicine, make available in the required quantity of cannabis/ marijuana and opium out of the narcotic drugs confiscated or seized under this Act to any agency which is engaged in the production of medicine.
