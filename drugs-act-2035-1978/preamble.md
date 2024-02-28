@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Make Provisions relating to Drugs Preamble: Whereas, it is expedient to prevent the misuse or abuse of drugs and allied pharmaceutical substances and false or misleading information relating to the efficacy and use of drugs and to control the production, sale, distribution, export, import, storage and consumption of those drugs which are not safe for public consumption, efficacious and of standard quality; Now, therefore, His Majesty King Birendra Bir Bikram Shah Dev has, with the aid and advice of the National Panchayat, enacted this Act.
