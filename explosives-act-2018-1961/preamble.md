@@ -1,0 +1,2 @@
+# Preamble
+Act Number 8 of the year 2018 (1961) An Act Made to Provide for The Production, Use, Sale, Transportation and Import of the Explosive Preamble: Whereas, it is expedient to make arrangements for the production, storage, use, sale, transportation and import of explosives so as to maintain peace and order ; 1 www.lawcommission.gov.np Now, therefore, be it enacted by His Majesty the King Mahendra Bir Bikram Shah Dev in accordance with Article 93 of the Constitution of Nepal .
