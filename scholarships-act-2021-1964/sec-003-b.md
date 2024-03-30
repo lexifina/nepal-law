@@ -1,0 +1,7 @@
+# Sec. 3B. No Objection letter in mandatory
+No citizen of Nepal shall go abroad for higher study without receiving no objection letter to be issued by the Ministry of Education and Sports.
+(2) A citizen of Nepal who wants to go abroad for higher study shall produce an application before the Ministry of Education and Sports for no objection letter upon mentioning the particulars as prescribed, along with the fee as prescribed.
+(3) While making an inquiry into the application received pursuant to the Sub-section (2) if the request of applicant is found justifiable, the Ministry of Education and Sports shall issue a no objection letter to the applicant in a prescribed format:
+Explanation: For the purpose of this Section the term higher education includes also higher secondary education.
+(4) If a person granted no objection letter pursuant to Sub-section (3) to go abroad for higher study, produces an application before the Ministry of Education and Sports for such study to get the facility of foreign currency exchange, the Ministry so concerned may recommend as prescribed to the concerned authority to provide the facility of such foreign currency exchange to the applicant.
+(5) Notwithstanding anything contained elsewhere in this Section, in a case of Government official, scholarship shall be provided pursuant to the provision of concerned prevailing law relating to condition of service

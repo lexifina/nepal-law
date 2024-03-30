@@ -1,0 +1,2 @@
+# Preamble
+Act No. 3 of 2021 B.S. An Act to provide for some legal provisions relating to scholarship to be given by Government of Nepal or to be given through Government of Nepal Preamble : Whereas, it is expedient to make some legal provisions with regard to scholarships to be given by or through Government of Nepal; Now, therefore, be it enacted by His Majesty the King Mahendra Bir Bikram Shahdev in consultation with, and consent of, the Rastriya Panchayat .

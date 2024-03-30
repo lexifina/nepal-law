@@ -1,0 +1,2 @@
+# Sec. 7B. To be according to the agreement
+Notwithstanding anything contained elsewhere in this Act, if any particular (specific) condition or limitation has been provided in relation to scholarship in a bilateral or multilateral understanding or agreement concluded between the Government of Nepal and a foreign friend country or any other institution, in relation to such scholarship shall be provided as referred to in such understanding or agreement.
