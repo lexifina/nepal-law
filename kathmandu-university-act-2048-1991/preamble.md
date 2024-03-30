@@ -1,0 +1,2 @@
+# Preamble
+Act Number 34 of the Year2048 (1991) An Act made for the establishment of Kathmandu University Preamble : Whereas, it is expedient to establish and manage a University in the non-governmental sector to operate higher level educational institutions for the study, teaching and research on Arts, Science, Management, Technology and other miscellaneous subjects ; Now, therefore, be it enacted by the Parliament on the Twentieth reign of His Majesty Birendra Bir Bikram Shah Dev.
