@@ -1,0 +1,2 @@
+# Preamble
+An Act made to provide for the Establishment and Management of Nepal Electricity Authority Preamble : Whereas it is expedient to enact legislation for the establishment and management of the Nepal electricity Authority to make arrangements for power supply by generating, transmitting, and distributing electricity in an efficient, reliable and convenient manner. Now therefore, His Majesty King Birendra Bir Bikram Shah Dev has enacted this Act on the advice and with the approval if the National Panchayat .
