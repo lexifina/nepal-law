@@ -1,0 +1,2 @@
+# Preamble
+Act Number 34 of the Year 2033 (1976) An Act Made to Maintain Purity in Feed Preamble : Whereas, it is expedient to maintain appropriate standards of the feed so as to prevent undesirable adulteration in the feed and subtraction or extraction of any natural quality or utility contained in the feed; Now, therefore, be it enacted by His Majesty King Birendra Bir Bikram Shah Dev on the advice and with the consent of the National Panchayat .
