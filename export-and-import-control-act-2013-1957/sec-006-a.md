@@ -1,0 +1,3 @@
+# Sec. 6A. Prize to be given to informer
+Where any person gives information that any person has exported or imported any goods in contravention of this Act or a notified order issued under this Act and such exportation or importation is proved following the action taken in relation thereto, a prize in a sum to be set by thirty percent of the value of the concerned goods shall be provided to such informer.
+Provided that, except in a case where action has been instituted on a reasonable cause or ground, where it is proved that a false information has been given with intention merely to harass or take revenge for personal enmity, the informer who has made such false information shall be punished with a fine ranging from two hundred rupees to five hundred rupees.
