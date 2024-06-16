@@ -1,0 +1,2 @@
+# Preamble
+Act Number 11 of the year 2021 (1964) ……………………… An Act Made to Provide for Restriction on Making Investment Abroad Preamble: Whereas, it is expedient to provide for restriction on making investment abroad in order to maintain economic interest of the general public; Now, therefore, His Majesty King Mahendra Bir Bikram Shah dev has, on the advice and with the consent of the National Panchayat, made this Act.
