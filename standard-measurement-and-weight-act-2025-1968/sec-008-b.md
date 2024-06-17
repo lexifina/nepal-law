@@ -1,0 +1,5 @@
+# Sec. 8B. Other Units of Measurement and Weight
+(1) Supplementary, derived, or other units or standard forms or definitions relating to the principal units of Measurement and Weight recommended by the General Assembly on Legal Measurement and Weight and the International Institute of Science on Legal Measurement and Weight shall be as prescribed.
+Explanation : Derived units mean units derived from the principal and/or supplementary units.
+(2) The multiples, sub-multiples, physical constant and ratio of co-efficiency in relation to units of Measurement and Weight recommended by the General Assembly on Legal Measurement and Weight and the International Institute of Science on Legal Measurement and Weight shall be as prescribed.
+(3) Government of Nepal may, by a Notification in the Nepal Gazette, prescribe special units of Measurement and Weight as recommended by the General Assembly on Measurement and Weight and the International Institute of Science of Legal Measurement and Weight for a necessary period.

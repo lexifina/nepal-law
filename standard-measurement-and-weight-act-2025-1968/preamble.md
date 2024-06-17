@@ -1,0 +1,2 @@
+# Preamble
+Act Number 17 of the Year 2025 (1968) An Act made for maintaining and introducing standard measurement and weight based on Metric System Preamble : Whereas, it is expedient to maintain and introduce the standard measurement and weights based on the metric system all over Nepal, Now, therefore, be it enacted by His Majesty the King Mahendra Bir Bikram Shahdev on the advice with and consent of the Rastriya Panchayat .
