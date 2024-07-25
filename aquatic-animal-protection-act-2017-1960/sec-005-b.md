@@ -1,0 +1,3 @@
+# Sec. 5B. Other provisions relating to aquatic animals
+(1) Anybody which builds a dyke for electricity, water supply, irrigation or any other purpose shall build a fish ladder to the extent possible so that the movement of aquatic animals is not affected. Where it is not possible to build such ladder, the body shall make an aquatic animal hatchery and aquatic animal nursery in such place or in an area in vicinity thereof for the purpose of having artificial breeding of aquatic animals.
+(2) Prior information shall be given to the technical officer in doing construction works as referred to in Sub-section (1).

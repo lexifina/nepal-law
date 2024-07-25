@@ -1,0 +1,2 @@
+# Preamble
+An Act Made to Provide for Protection of Aquatic Animals and Other Matters Pertaining Thereto Preamble: Whereas, it is expedient to make provisions on the protection of aquatic animals and other matters pertaining thereto in order to maintain peace and order as well as convenience and economic interests of the general public ; Now, therefore, be it enacted by the Parliament in the sixth year of reign of His Majesty King Mahendra Bir Bikram Shah Dev.
