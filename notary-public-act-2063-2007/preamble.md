@@ -1,0 +1,2 @@
+# Preamble
+Act No. 9 of the Year of 2063 B.S. An Act Made to Provide for Notary Public Preamble: Whereas, it is expedient to make legal provisions regarding Notary public by confirm real person in preparing documents and putting signature on the document and to control fraud and fraudulent activities and to provide for simple and easy way in translating document and to maintain the interest of the general public, Now, therefore be it enacted by the House of Representatives in the first year of the Declaration of House of Representative, 2063 (2006)
