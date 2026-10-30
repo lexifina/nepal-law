@@ -1,0 +1,33 @@
+{
+ "country": "NP",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "The Constitution of Nepal (consolidated English text, as amended to 18 June 2020)",
+   "url": "https://lawcommission.gov.np/content/13437/",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 318,
+     "source_url": "http://giwmscdnone.gov.np/media/files/Constitution%20of%20Nepal%20(2nd%20amd.%20English)_xf33zb3.pdf",
+     "sha256": "13e93bd7caf254c49229b09bf8b3a9ca8f7d4d8a2c5cc1c077150f553cab2176"
+    }
+   ]
+  },
+  {
+   "slug": "labour-act",
+   "short": "Labour Act",
+   "title": "The Labour Act, 2017 (2074)",
+   "url": "https://lawcommission.gov.np/en/wp-content/uploads/2021/03/The-Labor-Act-2017-2074.pdf",
+   "versions": [
+    {
+     "from": "2017-09-04",
+     "units": 184,
+     "source_url": "https://web.archive.org/web/20210405075300/https://lawcommission.gov.np/en/wp-content/uploads/2021/03/The-Labor-Act-2017-2074.pdf",
+     "sha256": "3db6f0bd0b712413c412f7442f1903072ac21765700c7025c02c6b408a758931"
+    }
+   ]
+  }
+ ]
+}
