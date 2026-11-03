@@ -10,6 +10,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Nepal Law Commission, The Labour Act, 2017 (2074) (official English text) | <https://lawcommission.gov.np/en/wp-content/uploads/2021/03/The-Labor-Act-2017-2074.pdf> | 2021-04-05 | No reuse terms stated by the publisher; official government publication |
 | Nepal Law Commission, official English texts of the Acts (old English site, lawcommission.gov.np/en/, as captured by the Internet Archive) | <https://lawcommission.gov.np/> | 2026-11-03 | No reuse terms stated by the publisher; official government publication |
 | Nepal Law Commission, official English texts of the Acts (old English site, lawcommission.gov.np/en/, as captured by the Internet Archive) | <https://lawcommission.gov.np/> | 2026-11-03 | No reuse terms stated by the publisher; official government publication |
+| Nepal Law Commission, official English texts of the Acts (old English site, lawcommission.gov.np/en/, as captured by the Internet Archive) | <https://lawcommission.gov.np/> | 2026-11-03 | No reuse terms stated by the publisher; official government publication |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -232,20 +233,29 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `environment-protection-act-2019-2076` | The Environment Protection Act, 2019 (2076) | 1 | 2019-10-11 to 2019-10-11 |
 | `passport-act-2019` | Passport Act, 2019 (2076) | 1 | 2019-10-14 to 2019-10-14 |
 | `federation-province-and-local-level-act-2020` | Federation Province And Local Level Act 2020  | 1 | 1963-11-14 to 1963-11-14 |
+| `act-to-provide-for-enhancement-of-the-circulation-of-nepalese-currency-2014` | Act to Provide for Enhancement of the Circulation of Nepalese Currency, | 1 | 2022-03-25 to 2022-03-25 |
+| `act-restricting-investment-abroad-2021-1964` | Act Restricting Investment Abroad, 2021(1964) | 1 | 2024-06-16 to 2024-06-16 |
+| `black-marketing-and-some-other-social-offenses-and-punishment-act-2032-1975` | Black Marketing And Some Other Social Offenses And Punishment Act 2032 1975 | 1 | 2022-06-10 to 2022-06-10 |
+| `nepal-administrative-staff-college-act-2020-1982` | Nepal Administrative Staff College Act, 2020 (1982) | 1 | 2024-03-30 to 2024-03-30 |
+| `nepal-tourism-board-act-2053-1997` | Nepal Tourism Board Act, 2053 | 1 | 2024-03-29 to 2024-03-29 |
+| `notary-public-act-2063-2007` | Notary Public Act, 2063 | 1 | 2024-08-22 to 2024-08-22 |
+| `control-of-international-trade-of-endangered-wild-fauna-and-flora-act-2017-cites-act` | The Control Of International Trade Of Endangered Wild Fauna And Flora Act 2017 Cites Act | 1 | 2023-03-07 to 2023-03-07 |
+| `act-relating-to-rights-of-persons-with-disabilities-2074-2017` | The Act Relating to Rights of Persons with Disabilities, 2074 (2017) | 1 | 2024-05-30 to 2024-05-30 |
+| `cooperatives-act-2017` | Cooperatives Act, 2017 | 1 | 2024-09-01 to 2024-09-01 |
 
-The build made 215 commits:
+The build made 224 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 215 | first version of an act |
+| 224 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 4 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 405 laws in the record.
-- 340 tags.
+- 414 laws in the record.
+- 349 tags.
 
 ## Dates
 
@@ -257,8 +267,8 @@ When a law gives no date of its own, the default rule applies: The Constitution 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `7bea7a1e09422b165e57231b6b1a69052ac19c1d0934a0feea91baa2f8691b40` (8313850 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `0b32e0de1321eea742da22b1aba8d48dc25f599c24de3397ccace91926143afd` (8695612 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
@@ -281,6 +291,9 @@ No second build of this corpus has been compared yet.
 - Breadth batch: every Act in the Law Commission's current alphabetical index of Acts in force (lawcommission.gov.np/pages/alphabetical-index-of-acts/, Nepali) that has an official English text on the Commission's old English site, matched by hand by name and Bikram Sambat year (in_force.txt). An Act repealed after its index entry, or an English text older than the latest amendment, is possible; each version says what it holds.
 - Each Act is one current-text version. Never amended: dated by its date of authentication (the first date on the cover; Nepali Acts commence on authentication unless they say otherwise). Amended: dated by the authentication date of the latest amendment the cover lists and credited to that amendment; the Act and its earlier amendments are named as earlier laws. Dates are the Gregorian dates the cover prints beside the Bikram Sambat dates.
 - Footnotes, footnote markers, page headers and page numbers are dropped (they are set in smaller type than the text); chapter headings are not kept as files; each section keeps its number and heading; schedules are kept together in one file. Wrapped lines are joined; sub-sections and clauses start new lines. Amendment marks (symbols such as ∝ or ⊕) are dropped.
+- Breadth batch: every Act in the Law Commission's current alphabetical index of Acts in force (lawcommission.gov.np/pages/alphabetical-index-of-acts/, Nepali) that has an official English text on the Commission's old English site, matched by hand by name and Bikram Sambat year (in_force.txt). An Act repealed after its index entry, or an English text older than the latest amendment, is possible; each version says what it holds.
+- Each Act is one current-text version. Never amended: dated by its date of authentication (the first date on the cover; Nepali Acts commence on authentication unless they say otherwise). Amended: dated by the authentication date of the latest amendment the cover lists and credited to that amendment; the Act and its earlier amendments are named as earlier laws. Dates are the Gregorian dates the cover prints beside the Bikram Sambat dates.
+- Footnotes, footnote markers, page headers and page numbers are dropped (they are set in smaller type than the text); chapter headings are not kept as files; each section keeps its number and heading; schedules are kept together in one file. Wrapped lines are joined; sub-sections and clauses start new lines. Amendment marks (symbols such as ∝ or ⊕) are dropped.
 
 ## What AI did and did not do
 
@@ -293,5 +306,6 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - Claude Code wrote the parser and chose the source; it did not write or alter any legal text. Text comes straight from the PDF text layer.
 - Claude Code wrote the parser; it did not write or alter any legal text. Text comes straight from the PDF text layer.
+- Claude Code wrote the parser and matched English file names to the Nepali index by hand; it did not write or alter any legal text.
 - Claude Code wrote the parser and matched English file names to the Nepali index by hand; it did not write or alter any legal text.
 - Claude Code wrote the parser and matched English file names to the Nepali index by hand; it did not write or alter any legal text.
