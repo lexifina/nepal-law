@@ -9,6 +9,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Nepal Law Commission, The Constitution of Nepal (English, incorporating the First and Second Amendments) | <https://lawcommission.gov.np/content/13437/> | 2026-10-30 | No reuse terms stated by the publisher; official government publication |
 | Nepal Law Commission, The Labour Act, 2017 (2074) (official English text) | <https://lawcommission.gov.np/en/wp-content/uploads/2021/03/The-Labor-Act-2017-2074.pdf> | 2021-04-05 | No reuse terms stated by the publisher; official government publication |
 | Nepal Law Commission, official English texts of the Acts (old English site, lawcommission.gov.np/en/, as captured by the Internet Archive) | <https://lawcommission.gov.np/> | 2026-11-03 | No reuse terms stated by the publisher; official government publication |
+| Nepal Law Commission, official English texts of the Acts (old English site, lawcommission.gov.np/en/, as captured by the Internet Archive) | <https://lawcommission.gov.np/> | 2026-11-03 | No reuse terms stated by the publisher; official government publication |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -125,20 +126,126 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `motor-vehicles-and-transport-management-act-2049-1993` | Motor Vehicles and Transport Management Act, 2049 (1993) | 1 | 1993-08-25 to 1993-08-25 |
 | `local-development-training-academy-act-2049-1993` | Local Development Training Academy Act 2049 1993 | 1 | 2010-01-21 to 2010-01-21 |
 | `purwanchal-university-act-2050-1994` | Purwanchal University Act, 2050 (1994) | 1 | 2007-09-05 to 2007-09-05 |
+| `university-grant-commission-act-2050-1993` | The University Grants Commission Act, 2050 (1993 A.D.) | 1 | 1993-11-22 to 1993-11-22 |
+| `working-journalists-act-2051-1993` | Working Journalists Act, 2051(1993) | 1 | 2010-01-21 to 2010-01-21 |
+| `nepal-nursing-council-act-2052-1996` | Nepal Nursing Council Act, 2052 (1996) | 1 | 2002-01-17 to 2002-01-17 |
+| `value-added-tax-act-alongwith-each-year-financial-acts-provision-2052-1996` | Value Added Tax Act, 2052 (1996) | 1 | 2010-01-21 to 2010-01-21 |
+| `industrial-enterprises-development-institute-act-2053-1996` | Industrial Enterprises Development Institute Act 2053 1996 | 1 | 1996-11-04 to 1996-11-04 |
+| `telecommunication-act-2053-1997` | TELECOMMUNICATIONS ACT, 2053 (1997) | 1 | 1997-01-01 to 1997-01-01 |
+| `town-development-fund-act-2053-1997` | Town Development Fund Act, 2053 (1997) | 1 | 2010-01-21 to 2010-01-21 |
+| `pokhara-university-act-2053-1997` | Pokhara University Act, 2053 (1996) | 1 | 2010-01-21 to 2010-01-21 |
+| `nepal-civil-aviation-authority-act-2053-1996` | Nepal Civil Aviation Authority Act, 2053 (1996) | 1 | 1996-11-23 to 1996-11-23 |
+| `nepal-health-professional-council-act-2053-1997` | Nepal Health Professional Council Act, 2053 | 1 | 1997-02-14 to 1997-02-14 |
+| `compensation-relating-to-torture-act-2053-1996` | Compensation Relating to Torture Act, 2053 (1996) | 1 | 1996-12-18 to 1996-12-18 |
+| `b-p-koirala-memorial-cancer-hospital-act-2053-1997` | B P Koirala Memorial Cancer Hospital Act 2053 1997 | 1 | 2010-01-21 to 2010-01-21 |
+| `remuneration-conditions-of-service-and-facilities-of-the-authorities-of-the-constitutional-bodies-act-2053-1997` | Remuneration Conditions Of Service And Facilities Of The Authorities Of The Constitutional Bodies Act 2053 1997 | 1 | 2010-01-21 to 2010-01-21 |
+| `international-financial-transaction-act-2054-1998` | International Financial Transaction Act 2054 1998 | 1 | 1998-01-28 to 1998-01-28 |
+| `legal-aid-act-2054-1997` | Legal Aid Act, 2054 (1997) | 1 | 1999-01-31 to 1999-01-31 |
+| `ownership-of-joint-housing-act-2054-b-s-1997` | [THE] OWNERSHIP OF JOINT HOUSING ACT, 2054 B.S. (1997) | 1 | 1997-12-22 to 1997-12-22 |
+| `iodized-salt-production-sale-and-distribution-act-2055-1998` | Iodized Salt Production Sale And Distribution Act 2055 1998 | 1 | 2010-01-21 to 2010-01-21 |
+| `animal-slaughterhouse-and-meat-inspection-act-2055-1999` | Animal Slaughterhouse and Meat Inspection Act, 2055(1999) | 1 | 1999-03-22 to 1999-03-22 |
+| `animal-health-and-livestock-services-act-2055-1999` | Animal Health and Livestock Services Act, 2055 (1999) | 1 | 1998-07-22 to 1998-07-22 |
+| `construction-business-act-2055-1999` | Construction Business Act, 2055 (1999) | 1 | 1999-03-11 to 1999-03-11 |
+| `veterinary-council-act-2055-1999` | Nepal Veterinary Council Act, 2055 (1999) | 1 | 2010-01-21 to 2010-01-21 |
+| `greater-janakpur-area-development-council-act-2055-1998` | The Greater Janakpur Area Development Council Act, | 1 | 2010-01-21 to 2010-01-21 |
+| `arbitration-act-2055-1999` | Arbitration Act, 2055 (1999) | 1 | 1999-04-15 to 1999-04-15 |
+| `act-relating-to-institutions-acting-as-financial-intermediary-2055-1999` | Act Relating to Institutions Acting as Financial | 1 | 2010-01-21 to 2010-01-21 |
+| `nepal-pharmacy-council-act-2057-2000` | Nepal Pharmacy Council Act, 2057 (2000) | 1 | 2001-01-31 to 2001-01-31 |
+| `martyr-gangalal-national-heart-disease-centre-act-2057-2000` | Martyr Gangalal National Heart Disease Centre Act, | 1 | 2010-01-21 to 2010-01-21 |
+| `national-foundation-for-upliftment-of-aadibasi-janjati-act-2058-2002` | National Foundation For Upliftment Of Aadibasi Janjati Act 2058 2002 | 1 | 2010-01-21 to 2010-01-21 |
+| `excise-duty-act-alongwith-each-year-financial-acts-amendment-2058-2002` | Excise Duty Act, 2058 (2002) | 1 | 2002-01-30 to 2002-01-30 |
+| `income-tax-act-alongwith-each-year-financial-acts-amendment-2058-2002` | Income Tax Act, 2058 (2002) | 1 | 2002-04-18 to 2002-04-18 |
+| `bonded-labour-prohibition-act-2058-2002` | Bonded Labour ( Prohibition )Act, 2058 (2002) | 1 | 2002-02-27 to 2002-02-27 |
+| `nepal-rastra-bank-act-2058-2002` | Nepal Rastra Bank Act, 2058 (2002) | 1 | 2002-01-30 to 2002-01-30 |
+| `recovery-of-debts-of-banks-and-financial-institution-act-2058-2002` | Recovery of Debts of Banks and Financial Institution Act, 2058 | 1 | 2022-06-15 to 2022-06-15 |
+| `electricity-theft-control-act-2058-2002` | Electricity Theft Control Act, 2058 (2002) | 1 | 2010-01-21 to 2010-01-21 |
+| `road-board-act-2058-2002` | Road Board Act, 2058 (2002) | 1 | 2010-01-21 to 2010-01-21 |
+| `armed-police-force-act-2058-2001` | Armed Police Force Act, 2058 (2001) | 1 | 2010-01-21 to 2010-01-21 |
+| `copyright-act-2059-2002` | The Copyright Act, 2059 (2002) | 1 | 2006-11-24 to 2006-11-24 |
+| `impeachment-regulation-of-procedure-act-2059-2002` | Impeachment (Regulation of Procedure) Act, 2059 | 1 | 2010-01-21 to 2010-01-21 |
+| `special-court-act-2059-2002` | Special Court Act, 2059 (2002) | 1 | 2010-01-24 to 2010-01-24 |
+| `water-supply-management-board-act-2063-2006` | Water Supply Management Board Act, 2063 (2006) | 1 | 2007-08-26 to 2007-08-26 |
+| `poverty-alleviation-fund-act-2063-2006` | Poverty Alleviation Fund Act, 2063 (2006) | 1 | 2006-07-07 to 2006-07-07 |
+| `some-public-documents-authentication-procedures-act-2063-2006` | Some Public Documents Authentication Procedures Act 2063 2006 | 1 | 2006-12-17 to 2006-12-17 |
+| `senior-citizens-act-2063-2006` | Senior Citizens Act, 2063 (2006) | 1 | 2006-11-24 to 2006-11-24 |
+| `securities-act-2063-2007` | SECURITIES ACT, 2063 (2007) | 1 | 2007-01-14 to 2007-01-14 |
+| `nepal-law-commission-act-2063-2007` | Nepal Law Commission Act, 2063 (2007 ) | 1 | 2007-01-14 to 2007-01-14 |
+| `competition-promotion-and-market-protection-act-2063-2007` | Competition Promotion and Market Protection Act, 2063 (2007) | 1 | 2006-06-23 to 2006-06-23 |
+| `multimodal-transportation-of-goods-act-2063-2006` | Multimodal Transportation of Goods Act, 2063(2006). | 1 | 2006-11-05 to 2006-11-05 |
+| `lumbini-bouddha-university-act-2063-2006` | Lumbini Bouddha University Act, 2067 (2006) | 1 | 2024-02-16 to 2024-02-16 |
+| `electronic-transaction-act-2063-2008` | The Electronic Transactions Act, 2063 (2008) | 1 | 2006-12-08 to 2006-12-08 |
+| `public-procurement-act-2063-2007` | The Public Procurement Act, 2063 (2007) | 1 | 2007-01-14 to 2007-01-14 |
+| `secured-transaction-act-2063-2006` | SECURED TRANSACTION ACT, 2063 (2006) | 1 | 2006-11-16 to 2006-11-16 |
+| `army-act-2063-2006` | Army Act, 2063 (2006) | 1 | 2010-01-21 to 2010-01-21 |
+| `non-resident-nepali-act-2064-2008` | Non-resident Nepali Act, 2064 | 1 | 2008-08-26 to 2008-08-26 |
+| `patan-academy-of-health-sciences-act-2064-2008` | Patan Academy of Health Sciences Act, 2064 (2008) | 1 | 2010-01-21 to 2010-01-21 |
+| `fine-arts-academy-act-2064-2007` | Nepal Fine Arts Academy Act, 2064 (2007) | 1 | 2007-09-17 to 2007-09-17 |
+| `music-and-dance-academy-act-2064-2007` | Nepal Music and Dance Academy Act, 2064 (2007) | 1 | 2007-09-17 to 2007-09-17 |
+| `plant-protection-act-2064-2007` | Plant Protection Act, 2064 (2007) | 1 | 2007-09-13 to 2007-09-13 |
+| `banking-offence-and-punishment-act-2064-2008` | Banking Offence and Punishment Act, 2064 | 1 | 2008-02-06 to 2008-02-06 |
+| `customs-act-2064-2007` | Customs Act, 2064 (2007) | 1 | 2007-08-31 to 2007-08-31 |
+| `human-trafficking-and-transportation-control-act-2064-2007` | Human Trafficking and Transportation (Control) Act, 2064 | 1 | 2007-07-24 to 2007-07-24 |
+| `decorations-act-2064-2007` | Decorations Act, 2064 (2007) | 1 | 2008-08-24 to 2008-08-24 |
+| `foreign-employment-act-2064-2007` | Foreign Employment Act, 2064 (2007) | 1 | 2007-09-05 to 2007-09-05 |
+| `act-relating-to-legislature-parliament-2064-2007` | Act Relating to Legislature-Parliament, 2064 (2007) | 1 | 2007-08-24 to 2007-08-24 |
+| `money-laundering-prevention-act-2063-2008` | Money Laundering Prevention Act, 2063 (2008) | 1 | 2008-01-01 to 2008-01-01 |
+| `good-governance-management-and-operation-act-2064-2006` | Good Governance Management And Operation Act 2064 2006 | 1 | 2008-02-06 to 2008-02-06 |
+| `right-to-information-act-2064-2007` | Right to Information Act, 2064 (2007 ) | 1 | 2007-07-21 to 2007-07-21 |
+| `domestic-violence-crime-and-punishment-act-2066-2009` | Domestic Violence (Offence and Punishment) Act, 2066 (2009) | 1 | 2009-04-27 to 2009-04-27 |
+| `constitutional-council-functions-duties-powers-and-procedures-act-2066-2010` | Constitutional Council Functions Duties Powers And Procedures Act 2066 2010 | 1 | 2010-01-06 to 2010-01-06 |
+| `security-of-the-health-workers-and-health-organizations-act-2066-2009` | Security Of The Health Workers And Health Organizations Act 2066 2009 | 1 | 2009-05-04 to 2009-05-04 |
+| `agriculture-and-forestry-university-act-2067-2010` | Agriculture And Forestry University Act 2067 2010 | 1 | 2010-06-17 to 2010-06-17 |
+| `mid-western-university-act-2067-2010` | Mid-western University Act, 2067 (2010) | 1 | 2010-06-17 to 2010-06-17 |
+| `far-western-university-act-2067-2010` | Far-western University Act, 2067 (2010) | 1 | 2010-06-17 to 2010-06-17 |
+| `karnali-academy-of-health-sciences-act-2068-2011` | Karnali Academy of Health Sciences Act, 2068 (2011) | 1 | 2011-10-20 to 2011-10-20 |
+| `caste-based-discrimination-and-untouchability-offence-and-punishment-act-2068-2011` | The Caste Based Discrimination And Untouchability Offence And Punishment Act 2068 2011 | 1 | 2024-06-11 to 2024-06-11 |
+| `mediation-act-2068-2011` | Mediation Act, 2068 (2011) | 1 | 2011-05-09 to 2011-05-09 |
+| `national-human-rights-commission-act-2068-2012` | National Human Rights Commission Act, 2068 | 1 | 2012-01-21 to 2012-01-21 |
+| `tobacco-products-control-and-regulatory-act-2068-2011` | Tobacco Products (Control and Regulatory) Act, 2068 (2011) | 1 | 2016-02-25 to 2016-02-25 |
+| `mutual-legal-assistance-act-2070-2014` | Mutual Legal Assistance Act, 2070 (2014) | 1 | 2014-03-26 to 2014-03-26 |
+| `sexual-harassment-at-workplace-prevention-act-2014-2071` | The Sexual Harassment at Workplace (Prevention) Act, 2014 (2071) | 1 | 2014-11-21 to 2014-11-21 |
+| `election-commission-act-2073-2017` | Election Commission Act, 2073 (2017) | 1 | 2017-02-02 to 2017-02-02 |
+| `bank-and-financial-institution-act-2073-2017` | Bank and Financial Institution Act, 2073 (2017) | 1 | 2017-04-23 to 2017-04-23 |
+| `judicial-council-act-2073-2016` | Judicial Council Act, 2073 (2016) | 1 | 2016-09-12 to 2016-09-12 |
+| `national-indigenous-nationalities-commission-act-2074-2017` | National Indigenous Nationalities Commission Act, 2074 (2017) | 1 | 2017-10-13 to 2017-10-13 |
+| `tharu-commission-act-2074-2017` | Tharu Commission Act, 2074 (2017) | 1 | 2017-10-15 to 2017-10-15 |
+| `language-commission-act-2074-2017` | Language Commission Act, 2074 (2017) | 1 | 2017-10-16 to 2017-10-16 |
+| `madhesi-commission-act-2074-2017` | Madhesi Commission Act, 2074 (2017) | 1 | 2017-10-13 to 2017-10-13 |
+| `muslim-commission-act-2074-2017` | Muslim Commission Act, 2074 (2017) | 1 | 2017-10-15 to 2017-10-15 |
+| `national-dalit-commission-act-2074-2017` | National Dalit Commission Act, 2074 (2017) | 1 | 2017-10-15 to 2017-10-15 |
+| `national-natural-resources-and-fiscal-commission-act-2074-2017` | National Natural Resources and Fiscal Commission Act, 2074 (2017) | 1 | 2017-10-13 to 2017-10-13 |
+| `national-women-commission-act-2074-2017` | National Women Commission Act, 2074 (2017) | 1 | 2017-10-15 to 2017-10-15 |
+| `national-inclusion-commission-act-2074-2017` | National Inclusion Commission Act, 2074 (2017) | 1 | 2017-10-13 to 2017-10-13 |
+| `act-relating-to-compulsory-and-free-education-2075-2018` | The Act Relating to Compulsory and Free Education, 2075 (2018) | 1 | 2018-09-18 to 2018-09-18 |
+| `crime-victim-protection-act-2075-2018` | The Crime Victim Protection Act, 2075 (2018) | 1 | 2018-09-18 to 2018-09-18 |
+| `right-to-housing-act-2075-2018` | The Right to Housing Act, 2075 (2018) | 1 | 2018-09-18 to 2018-09-18 |
+| `consumer-protection-act-2075-2018` | The Consumer Protection Act, 2075 (2018) | 1 | 2018-09-18 to 2018-09-18 |
+| `right-to-food-and-food-sovereignty-act-2075-2018` | The Right to Food and Food Sovereignty Act, 2075 (2018) | 1 | 2018-09-18 to 2018-09-18 |
+| `public-health-service-act-2075-2018` | The Public Health Service Act, 2075 (2018) | 1 | 2018-09-18 to 2018-09-18 |
+| `act-relating-to-children-2075-2018` | The Act Relating to Children, 2075 (2018) | 1 | 2018-09-18 to 2018-09-18 |
+| `audit-act-2075-2019` | The Audit Act, 2075 (2019) | 1 | 2019-03-29 to 2019-03-29 |
+| `foreign-investment-and-technology-transfer-act-2019-2075` | The Foreign Investment and Technology Transfer Act, 2019 (2075) | 1 | 2019-03-27 to 2019-03-27 |
+| `right-to-employment-act-2075-2018` | The Right to Employment Act, 2075 (2018) | 1 | 2018-09-18 to 2018-09-18 |
+| `privacy-act-2075-2018` | The Privacy Act, 2075 (2018) | 1 | 2018-09-18 to 2018-09-18 |
+| `social-security-act-2075-2018` | The Social Security Act 2075 2018 | 1 | 2018-09-18 to 2018-09-18 |
+| `right-to-safe-motherhood-and-reproductive-health-act-2075-2018` | The Right To Safe Motherhood And Reproductive Health Act 2075 2018 | 1 | 2018-09-18 to 2018-09-18 |
+| `environment-protection-act-2019-2076` | The Environment Protection Act, 2019 (2076) | 1 | 2019-10-11 to 2019-10-11 |
+| `passport-act-2019` | Passport Act, 2019 (2076) | 1 | 2019-10-14 to 2019-10-14 |
+| `federation-province-and-local-level-act-2020` | Federation Province And Local Level Act 2020  | 1 | 1963-11-14 to 1963-11-14 |
 
-The build made 109 commits:
+The build made 215 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 109 | first version of an act |
+| 215 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
-- 3 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 278 laws in the record.
-- 147 tags.
+- 4 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 405 laws in the record.
+- 340 tags.
 
 ## Dates
 
@@ -150,8 +257,8 @@ When a law gives no date of its own, the default rule applies: The Constitution 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `19f60988b7149a1c216f9989abab19d36b86661192efa93bc0aec849983f2542` (3120558 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `7bea7a1e09422b165e57231b6b1a69052ac19c1d0934a0feea91baa2f8691b40` (8313850 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
@@ -171,6 +278,9 @@ No second build of this corpus has been compared yet.
 - Breadth batch: every Act in the Law Commission's current alphabetical index of Acts in force (lawcommission.gov.np/pages/alphabetical-index-of-acts/, Nepali) that has an official English text on the Commission's old English site, matched by hand by name and Bikram Sambat year (in_force.txt). An Act repealed after its index entry, or an English text older than the latest amendment, is possible; each version says what it holds.
 - Each Act is one current-text version. Never amended: dated by its date of authentication (the first date on the cover; Nepali Acts commence on authentication unless they say otherwise). Amended: dated by the authentication date of the latest amendment the cover lists and credited to that amendment; the Act and its earlier amendments are named as earlier laws. Dates are the Gregorian dates the cover prints beside the Bikram Sambat dates.
 - Footnotes, footnote markers, page headers and page numbers are dropped (they are set in smaller type than the text); chapter headings are not kept as files; each section keeps its number and heading; schedules are kept together in one file. Wrapped lines are joined; sub-sections and clauses start new lines. Amendment marks (symbols such as ∝ or ⊕) are dropped.
+- Breadth batch: every Act in the Law Commission's current alphabetical index of Acts in force (lawcommission.gov.np/pages/alphabetical-index-of-acts/, Nepali) that has an official English text on the Commission's old English site, matched by hand by name and Bikram Sambat year (in_force.txt). An Act repealed after its index entry, or an English text older than the latest amendment, is possible; each version says what it holds.
+- Each Act is one current-text version. Never amended: dated by its date of authentication (the first date on the cover; Nepali Acts commence on authentication unless they say otherwise). Amended: dated by the authentication date of the latest amendment the cover lists and credited to that amendment; the Act and its earlier amendments are named as earlier laws. Dates are the Gregorian dates the cover prints beside the Bikram Sambat dates.
+- Footnotes, footnote markers, page headers and page numbers are dropped (they are set in smaller type than the text); chapter headings are not kept as files; each section keeps its number and heading; schedules are kept together in one file. Wrapped lines are joined; sub-sections and clauses start new lines. Amendment marks (symbols such as ∝ or ⊕) are dropped.
 
 ## What AI did and did not do
 
@@ -183,4 +293,5 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - Claude Code wrote the parser and chose the source; it did not write or alter any legal text. Text comes straight from the PDF text layer.
 - Claude Code wrote the parser; it did not write or alter any legal text. Text comes straight from the PDF text layer.
+- Claude Code wrote the parser and matched English file names to the Nepali index by hand; it did not write or alter any legal text.
 - Claude Code wrote the parser and matched English file names to the Nepali index by hand; it did not write or alter any legal text.
