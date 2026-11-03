@@ -22,6 +22,7 @@ def main():
         if not caps:
             miss.append(en)
             continue
+        caps = [kr for kr in caps if int(kr[1]['length'] or 0) > 5000] or caps   # not an archived challenge page
         caps.sort(key=lambda kr: kr[1]['timestamp'])
         k, r = caps[-1]   # the latest capture of the file
         key = re.sub(r'^the-', '', re.sub(r'-final-eng-version.*$', '', en)).strip('-')
