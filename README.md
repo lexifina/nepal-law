@@ -1,5 +1,7 @@
 # Nepal: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Nepal's national law, which global-law reads at `nepal/national/acts/`.
+
 The law of Nepal as a git repository: the Constitution and the Acts of Parliament in force, one file per article or section, one paragraph per line, so `git blame` and `git diff` work line by line.
 
 **Language: English.** The text is the Nepal Law Commission's official English version. The Commission's Nepali PDFs use legacy fonts whose text layers extract as wrong characters, so they were not used.
