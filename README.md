@@ -59,6 +59,7 @@ An unamended Act is credited to itself, an amended one to the latest amendment i
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 224 versions of 224 acts, 0 mismatches.
 - No merge commits on `main`, no commit dates that go backwards, nothing dated after the build, and every commit's trailers parse.
 - `tools/build.py` writes the history from one corpus file, and the same corpus gives the same commit hashes. The results are in [`REPRODUCE.md`](REPRODUCE.md); no second build has been compared yet.
+- [vulnerabilities/](vulnerabilities/README.md): possible drafting mistakes in Nepali law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
